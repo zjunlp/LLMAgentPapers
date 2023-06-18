@@ -37,3 +37,45 @@
 6. **Playing repeated games with Large Language Models**
 
    Elif Akata, Lion Schulz, Julian Coda-Forno, Seong Joon Oh, Matthias Bethge, Eric Schulz. [[abs](https://arxiv.org/abs/2305.16867)], 2023.5
+   
+### Agent with the Environment
+
+1. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**
+
+   *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch*. [[abs](https://arxiv.org/abs/2201.07207)], 2022.1
+
+2. **Inner Monologue: Embodied Reasoning through Planning with Language Models**
+
+   *Wenlong Huang , Fei Xia , Ted Xiao , Harris Chan, Jacky Liang, Pete Florence, Andy Zeng, Jonathan Tompson, Igor Mordatch, Yevgen Chebotar, Pierre Sermanet, Noah Brown, Tomas Jackson, Linda Luu, Sergey Levine, Karol Hausman, Brian Ichter*. [[abs](https://arxiv.org/abs/2207.05608)], 2022.7
+
+3. **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**
+
+   *Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su*. [[abs](https://arxiv.org/abs/2212.04088)], 2022.12
+
+4. **Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling**
+
+   *Kolby Nottingham, Prithviraj Ammanabrolu, Alane Suhr, Yejin Choi, Hannaneh Hajishirzi, Sameer Singh, Roy Fox*. [[abs](https://arxiv.org/abs/2301.12050)], 2023.1
+
+5. **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**
+
+   *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang*. [[abs](https://arxiv.org/abs/2302.01560)], 2023.2
+
+6. **Palm-e: An embodied multimodal language model**
+
+   *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence.* [[abs](https://arxiv.org/abs/2303.03378)], 2023.3
+
+7. **Chat with the Environment: Interactive Multimodal Perception using Large Language Models**
+
+   *Xufeng Zhao, Mengdi Li, Cornelius Weber, Muhammad Burhan Hafez, Stefan Wermter*. [[abs](https://arxiv.org/abs/2303.08268)], 2023.3
+
+8. **Generative Agents: Interactive Simulacra of Human Behavior**
+
+   *Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein.* [[abs](https://arxiv.org/abs/2304.03442)], 2023.4
+
+9. **Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents**
+
+   *Yue Wu, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye*. [[abs](https://arxiv.org/abs/2305.02412)], 2023.5
+
+10. **Voyager: An Open-Ended Embodied Agent with Large Language Models**
+
+    *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*. [[abs](https://arxiv.org/abs/2305.16291)], 2023.5
