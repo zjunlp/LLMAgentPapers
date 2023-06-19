@@ -38,6 +38,10 @@
 
    Elif Akata, Lion Schulz, Julian Coda-Forno, Seong Joon Oh, Matthias Bethge, Eric Schulz. [[abs](https://arxiv.org/abs/2305.16867)], 2023.5
    
+7. **ChatGPT/GPT-4 for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities**
+
+   Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang. [[abs](https://arxiv.org/abs/2305.13168)], 2023.5
+   
 ### Agent with the Environment
 
 1. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**
