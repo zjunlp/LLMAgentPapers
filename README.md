@@ -4,7 +4,7 @@
 ## 📜Content
 
 - [Introduction](#introduction)
-- [🌄 Related Papers](#related-papers)
+- [🌄 Papers](#-papers)
   - [Overview](#overview)
   - [Multiple Agents](#Multiple-Agents)
   - [Agent with the Environment](#Agent-with-the-Environment)
@@ -91,7 +91,7 @@
 
     *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*. [[abs](https://arxiv.org/abs/2305.16291)], 2023.5
 
-## 🛠️ Tools
+## 🛠️ Agent Tools
 
 1. **AutoGPT.** 
 
