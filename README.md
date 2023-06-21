@@ -107,7 +107,7 @@
 
 2. **Transformer Agents.**
 
-   In short, it provides a natural language API on top of transformers: we define a set of curated tools and design an agent to interpret natural language and to use these tools.  [[github](https://huggingface.co/docs/transformers/transformers_agents)]
+   In short, it provides a natural language API on top of transformers: we define a set of curated tools and design an agent to interpret natural language and to use these tools.  [[huggingface](https://huggingface.co/docs/transformers/transformers_agents)]
 
 3. **AgentVerse.** 
 
