@@ -1,32 +1,14 @@
 # LLMAgents
 
 [![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://github.com/zjunlp/LLMAgentPapers) [![License: MIT](https://camo.githubusercontent.com/fd551ba4b042d89480347a0e74e31af63b356b2cac1116c7b80038f41b04a581/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667)](https://opensource.org/licenses/MIT) <img src="https://img.shields.io/github/last-commit/tensorflow/tensorflow.svg"/> [![img](https://camo.githubusercontent.com/eafac29b763e18c4d80c680d6a179f348cfa2afbc8d3a45642df19fd580d2404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d57656c636f6d652d726564)](https://camo.githubusercontent.com/eafac29b763e18c4d80c680d6a179f348cfa2afbc8d3a45642df19fd580d2404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d57656c636f6d652d726564)
+## 📜Content
 
-# 🛠️Tools
+- [Introduction](#-introduction)
+- [🌄 Papers](#-papers)
+  - [Overview](#overview)
+  - [Multiple-Agents](#Multiple-Agents)
+- [🛠️ Tools](#-Tools)    
 
-1. **AutoGPT.** 
-
-   Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model.  [[github](https://github.com/Significant-Gravitas/Auto-GPT)] 
-
-2. **CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society.** 
-
-   CAMEL is an open-source library designed for the study of autonomous and communicative agents.  [[github](https://github.com/camel-ai/camel)]
-
-3. **GPTeam: Collaborative AI Agents.** 
-
-   GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals. The main objective of this project is to explore the potential of GPT models in enhancing multi-agent productivity and effective communication. [[github](https://github.com/101dotxyz/GPTeam)]
-
-2. **Transformer Agents.**
-
-   In short, it provides a natural language API on top of transformers: we define a set of curated tools and design an agent to interpret natural language and to use these tools.  [[github](https://huggingface.co/docs/transformers/transformers_agents)]
-
-3. **AgentVerse.** 
-
-   A Framework for Multi-LLM Environment Simulation.  [[github]](https://github.com/OpenBMB/AgentVerse)  
-
-4. **AutoAgents**
-
-   AutoAgents - Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.  [[github]](https://github.com/AutoLLM/AutoAgents)
    
 ## 🌄 Papers
 
@@ -109,3 +91,29 @@
 10. **Voyager: An Open-Ended Embodied Agent with Large Language Models**
 
     *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*. [[abs](https://arxiv.org/abs/2305.16291)], 2023.5
+
+## 🛠️ Tools
+
+1. **AutoGPT.** 
+
+   Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model.  [[github](https://github.com/Significant-Gravitas/Auto-GPT)] 
+
+2. **CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society.** 
+
+   CAMEL is an open-source library designed for the study of autonomous and communicative agents.  [[github](https://github.com/camel-ai/camel)]
+
+3. **GPTeam: Collaborative AI Agents.** 
+
+   GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals. The main objective of this project is to explore the potential of GPT models in enhancing multi-agent productivity and effective communication. [[github](https://github.com/101dotxyz/GPTeam)]
+
+2. **Transformer Agents.**
+
+   In short, it provides a natural language API on top of transformers: we define a set of curated tools and design an agent to interpret natural language and to use these tools.  [[github](https://huggingface.co/docs/transformers/transformers_agents)]
+
+3. **AgentVerse.** 
+
+   A Framework for Multi-LLM Environment Simulation.  [[github]](https://github.com/OpenBMB/AgentVerse)  
+
+4. **AutoAgents**
+
+   AutoAgents - Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.  [[github]](https://github.com/AutoLLM/AutoAgents)
