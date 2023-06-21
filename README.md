@@ -4,12 +4,12 @@
 ## 📜Content
 
 - [Introduction](#introduction)
-- [🌄 Agent Papers](#agent-papers)
+- [🌄 Papers](#-papers)
   - [Overview](#overview)
   - [Multiple Agents](#Multiple-Agents)
   - [Agent with the Environment](#Agent-with-the-Environment)
 
-- [🛠️ Agent Tools](#agent-tools)
+- [🛠️ Tools](#-tools)
   
 ## 🌄 Papers
 
