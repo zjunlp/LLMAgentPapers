@@ -6,13 +6,12 @@
 - [Introduction](#-introduction)
 - [🌄 Papers](#-papers)
   - [Overview](#overview)
-  - [Multiple-Agents](#Multiple-Agents)
-- [🛠️ Tools](#-Tools)    
+  - [Multiple Agents](#Multiple-Agents)
+  - [Agent with the Environment](#Agent-with-the-Environment)
 
-   
+- [🛠️ Tools](#tools)
+  
 ## 🌄 Papers
-
-
 
 ### Overview
 
