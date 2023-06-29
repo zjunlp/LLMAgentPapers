@@ -105,14 +105,18 @@
 
    GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals. The main objective of this project is to explore the potential of GPT models in enhancing multi-agent productivity and effective communication. [[github](https://github.com/101dotxyz/GPTeam)]
 
-2. **Transformer Agents.**
+4. **Transformer Agents.**
 
    In short, it provides a natural language API on top of transformers: we define a set of curated tools and design an agent to interpret natural language and to use these tools.  [[huggingface](https://huggingface.co/docs/transformers/transformers_agents)]
 
-3. **AgentVerse.** 
+5. **AgentVerse.** 
 
    A Framework for Multi-LLM Environment Simulation.  [[github]](https://github.com/OpenBMB/AgentVerse)  
 
-4. **AutoAgents**
+6. **AutoAgents**
 
    AutoAgents - Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.  [[github]](https://github.com/AutoLLM/AutoAgents)
+
+7. **GPT Engineer.**
+
+   GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.  [[github]](https://github.com/AntonOsika/gpt-engineer)  
