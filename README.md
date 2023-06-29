@@ -83,13 +83,18 @@
 
    *Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein.* [[abs](https://arxiv.org/abs/2304.03442)], 2023.4
 
-9. **Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents**
+9.  **Emergent autonomous scientific research capabilities of large language models**
+
+   *Daniil A. Boiko, Robert MacKnight, Gabe Gomes.* [[abs](https://arxiv.org/abs/2304.05332)], 2023.4
+
+10. **Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents**
 
    *Yue Wu, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye*. [[abs](https://arxiv.org/abs/2305.02412)], 2023.5
 
-10. **Voyager: An Open-Ended Embodied Agent with Large Language Models**
+11. **Voyager: An Open-Ended Embodied Agent with Large Language Models**
 
-    *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*. [[abs](https://arxiv.org/abs/2305.16291)], 2023.5
+   *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*. [[abs](https://arxiv.org/abs/2305.16291)], 2023.5
+   
 
 ## 🛠️ Agent Tools
 
