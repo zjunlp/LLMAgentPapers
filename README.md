@@ -9,7 +9,7 @@
   - [Multiple Agents](#Multiple-Agents)
   - [Agent with the Environment](#Agent-with-the-Environment)
 
-- [🛠️ Agent Tools](#agent-tools)
+- [🛠️ Agent Tools](#-Agent-Tools)
   
 ## 🌄 Papers
 
