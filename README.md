@@ -17,37 +17,42 @@
 
 1. **Interactive Natural Language Processing**
 
-   Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu. [[abs]](https://arxiv.org/abs/2305.13246), 2023.5
+   *Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu.* [[abs]](https://arxiv.org/abs/2305.13246), 2023.5
 
 ### Multiple Agents
 
 1. **CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society**
 
-   Guohao Li, Hasan Abed Al Kader Hammoud, Hani Itani, Dmitrii Khizbullin, Bernard Ghanem. [[abs](https://arxiv.org/abs/2303.17760)], 2023.3
+   *Guohao Li, Hasan Abed Al Kader Hammoud, Hani Itani, Dmitrii Khizbullin, Bernard Ghanem.* [[abs](https://arxiv.org/abs/2303.17760)], 2023.3
 
 2. **ChatLLM Network: More brains, More intelligence**
 
-   Rui Hao, Linmei Hu, Weijian Qi, Qingliu Wu, Yirui Zhang, Liqiang Nie. [[abs](https://arxiv.org/abs/2304.12998)], 2023.4
+   *Rui Hao, Linmei Hu, Weijian Qi, Qingliu Wu, Yirui Zhang, Liqiang Nie.* [[abs](https://arxiv.org/abs/2304.12998)], 2023.4
 
 3. **Self-collaboration Code Generation via ChatGPT** 
 
-   Yihong Dong, Xue Jiang, Zhi Jin, Ge Li. [[abs](https://arxiv.org/abs/2304.07590)], 2023.4
+   *Yihong Dong, Xue Jiang, Zhi Jin, Ge Li.* [[abs](https://arxiv.org/abs/2304.07590)], 2023.4
 
 4. **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**
 
-   Tian Liang, Zhiwei He, Wenxiang Jiao, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi.  [[abs](https://arxiv.org/abs/2305.19118)], 2023.5
+   *Tian Liang, Zhiwei He, Wenxiang Jiao, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi.*  [[abs](https://arxiv.org/abs/2305.19118)], 2023.5
 
 5. **Improving Factuality and Reasoning in Language Models through Multiagent Debate**
 
-   Yilun Du, Shuang Li, Antonio Torralba, Joshua B. Tenenbaum, Igor Mordatch. [[abs](https://arxiv.org/abs/2305.14325)], 2023.5
+   *Yilun Du, Shuang Li, Antonio Torralba, Joshua B. Tenenbaum, Igor Mordatch.* [[abs](https://arxiv.org/abs/2305.14325)], 2023.5
 
 6. **Playing repeated games with Large Language Models**
 
-   Elif Akata, Lion Schulz, Julian Coda-Forno, Seong Joon Oh, Matthias Bethge, Eric Schulz. [[abs](https://arxiv.org/abs/2305.16867)], 2023.5
-   
+   *Elif Akata, Lion Schulz, Julian Coda-Forno, Seong Joon Oh, Matthias Bethge, Eric Schulz.* [[abs](https://arxiv.org/abs/2305.16867)], 2023.5
+
 7. **ChatGPT/GPT-4 for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities**
 
-   Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang. [[abs](https://arxiv.org/abs/2305.13168)], 2023.5
+   *Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang.* [[abs](https://arxiv.org/abs/2305.13168)], 2023.5
+
+8. **Emergent autonomous scientific research capabilities of large language models**
+
+   *Daniil A. Boiko, Robert MacKnight, Gabe Gomes.* [[abs](https://arxiv.org/abs/2304.05332)], 2023.4
+
    
 ### Agent with the Environment
 
@@ -83,15 +88,11 @@
 
    *Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein.* [[abs](https://arxiv.org/abs/2304.03442)], 2023.4
 
-9.  **Emergent autonomous scientific research capabilities of large language models**
-
-   *Daniil A. Boiko, Robert MacKnight, Gabe Gomes.* [[abs](https://arxiv.org/abs/2304.05332)], 2023.4
-
-10. **Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents**
+9. **Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents**
 
    *Yue Wu, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye*. [[abs](https://arxiv.org/abs/2305.02412)], 2023.5
 
-11. **Voyager: An Open-Ended Embodied Agent with Large Language Models**
+10. **Voyager: An Open-Ended Embodied Agent with Large Language Models**
 
    *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*. [[abs](https://arxiv.org/abs/2305.16291)], 2023.5
    
