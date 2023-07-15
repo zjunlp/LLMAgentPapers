@@ -53,6 +53,9 @@
 
    *Daniil A. Boiko, Robert MacKnight, Gabe Gomes.* [[abs](https://arxiv.org/abs/2304.05332)], 2023.4
 
+9. **Large Language Models as Tool Makers**
+
+   *Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou*. [[abs](https://arxiv.org/abs/2305.17126)],2023.5
    
 ### Agent with the Environment
 
