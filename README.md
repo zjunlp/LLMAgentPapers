@@ -1,23 +1,29 @@
 # LLMAgents
 
 [![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://github.com/zjunlp/LLMAgentPapers) [![License: MIT](https://camo.githubusercontent.com/fd551ba4b042d89480347a0e74e31af63b356b2cac1116c7b80038f41b04a581/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667)](https://opensource.org/licenses/MIT) <img src="https://img.shields.io/github/last-commit/tensorflow/tensorflow.svg"/> [![img](https://camo.githubusercontent.com/eafac29b763e18c4d80c680d6a179f348cfa2afbc8d3a45642df19fd580d2404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d57656c636f6d652d726564)](https://camo.githubusercontent.com/eafac29b763e18c4d80c680d6a179f348cfa2afbc8d3a45642df19fd580d2404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d57656c636f6d652d726564)
+
+Must-read Papers on Multi-agents of large language models.
+
+
 ## 📜Content
 
-- [Introduction](#introduction)
-- [🌄 Papers](#-papers)
+- [🌄 Papers](#🌄-papers)
   - [Overview](#overview)
   - [Multiple Agents](#Multiple-Agents)
-  - [Agent with the Environment](#Agent-with-the-Environment)
+  - [Agent + Environment](#agent--environment)
+- [🛠️ Tools](#🛠️-tools)
 
-- [🛠️ Tools](#-Tools)
-  
+
+
 ## 🌄 Papers
 
 ### Overview
 
 1. **Interactive Natural Language Processing**
 
-   *Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu.* [[abs]](https://arxiv.org/abs/2305.13246), 2023.5
+   Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu. [[abs]](https://arxiv.org/abs/2305.13246), 2023.5
+
+
 
 ### Multiple Agents
 
@@ -56,8 +62,22 @@
 9. **Large Language Models as Tool Makers**
 
    *Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou*. [[abs](https://arxiv.org/abs/2305.17126)],2023.5
-   
-### Agent with the Environment
+
+10. **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
+
+    *Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji.* [[abs](https://arxiv.org/abs/2307.05300)],2023.7
+
+11. **Collaborating with language models for embodied reasoning**
+
+    *Ishita Dasgupta, Christine Kaeser-Chen, Kenneth Marino, Arun Ahuja, Sheila Babayan, Felix Hill, Rob Fergus.* [[abs](https://arxiv.org/abs/2302.00763)], 2023.2
+
+12. **Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models**
+
+    *Jimmy Wei, Kurt Shuster, Arthur Szlam, Jason Weston, Jack Urbanek, Mojtaba Komeili.* [[abs](https://arxiv.org/abs/2304.13835)], 2023.4
+
+    
+
+### Agent + Environment
 
 1. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**
 
@@ -79,7 +99,7 @@
 
    *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang*. [[abs](https://arxiv.org/abs/2302.01560)], 2023.2
 
-6. **PaLM-E: An embodied multimodal language model**
+6. **Palm-e: An embodied multimodal language model**
 
    *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence.* [[abs](https://arxiv.org/abs/2303.03378)], 2023.3
 
@@ -97,8 +117,21 @@
 
 10. **Voyager: An Open-Ended Embodied Agent with Large Language Models**
 
-   *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*. [[abs](https://arxiv.org/abs/2305.16291)], 2023.5
-   
+    *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*. [[abs](https://arxiv.org/abs/2305.16291)], 2023.5
+
+11. **SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks**
+
+    *Bill Yuchen Lin, Yicheng Fu, Karina Yang, Prithviraj Ammanabrolu, Faeze Brahman, Shiyu Huang, Chandra Bhagavatula, Yejin Choi, Xiang Ren.* [[abs](https://arxiv.org/abs/2305.17390)], 2023.5
+
+12. **Language Models Meet World Models: Embodied Experiences Enhance Language Models**
+
+    *Jiannan Xiang, Tianhua Tao, Yi Gu, Tianmin Shu, Zirui Wang, Zichao Yang, Zhiting Hu.* [[abs](https://arxiv.org/abs/2305.10626)], 2023.5
+
+13. **Training Socially Aligned Language Models in Simulated Human Society.**
+
+    *Ruibo Liu, Ruixin Yang, Chenyan Jia, Ge Zhang, Denny Zhou, Andrew M. Dai, Diyi Yang, Soroush Vosoughi.* [[abs](https://arxiv.org/abs/2305.16960)], 2023.5
+
+    
 
 ## 🛠️ Tools
 
@@ -116,7 +149,7 @@
 
 4. **Transformer Agents.**
 
-   In short, it provides a natural language API on top of transformers: we define a set of curated tools and design an agent to interpret natural language and to use these tools.  [[huggingface](https://huggingface.co/docs/transformers/transformers_agents)]
+   In short, it provides a natural language API on top of transformers: we define a set of curated tools and design an agent to interpret natural language and to use these tools.  [[github](https://huggingface.co/docs/transformers/transformers_agents)]
 
 5. **AgentVerse.** 
 
@@ -124,8 +157,10 @@
 
 6. **AutoAgents**
 
-   AutoAgents - Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.  [[github]](https://github.com/AutoLLM/AutoAgents)
+   AutoAgents - Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.  [[github]](https://github.com/AutoLLM/AutoAgents)  
 
 7. **GPT Engineer.**
 
    GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.  [[github]](https://github.com/AntonOsika/gpt-engineer)  
+
+
