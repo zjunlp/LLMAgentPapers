@@ -7,11 +7,11 @@ Must-read Papers on Multi-agents of large language models.
 
 ## 📜Content
 
-- [🌄 Papers](#🌄-papers)
+- [🌄 Papers](#-papers)
   - [Overview](#overview)
-  - [Multiple Agents](#Multiple-Agents)
+  - [Multiple Agents](#multiple-agents)
   - [Agent + Environment](#agent--environment)
-- [🛠️ Tools](#🛠️-tools)
+- [🧰 Tools](#-tools)
 
 
 
@@ -133,7 +133,7 @@ Must-read Papers on Multi-agents of large language models.
 
     
 
-## 🛠️ Tools
+## 🧰 Tools
 
 1. **AutoGPT.** 
 
