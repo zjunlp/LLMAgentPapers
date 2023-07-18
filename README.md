@@ -63,19 +63,19 @@ Must-read Papers on Multi-agents of large language models.
 
    *Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou*. [[abs](https://arxiv.org/abs/2305.17126)],2023.5
 
-10. **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
-
-    *Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji.* [[abs](https://arxiv.org/abs/2307.05300)],2023.7
-
-11. **Collaborating with language models for embodied reasoning**
+10. **Collaborating with language models for embodied reasoning**
 
     *Ishita Dasgupta, Christine Kaeser-Chen, Kenneth Marino, Arun Ahuja, Sheila Babayan, Felix Hill, Rob Fergus.* [[abs](https://arxiv.org/abs/2302.00763)], 2023.2
 
-12. **Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models**
+11. **Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models**
 
     *Jimmy Wei, Kurt Shuster, Arthur Szlam, Jason Weston, Jack Urbanek, Mojtaba Komeili.* [[abs](https://arxiv.org/abs/2304.13835)], 2023.4
 
-    
+12. **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
+
+    *Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji.* [[abs](https://arxiv.org/abs/2307.05300)], 2023.7
+
+
 
 ### Agent + Environment
 
@@ -162,5 +162,3 @@ Must-read Papers on Multi-agents of large language models.
 7. **GPT Engineer.**
 
    GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.  [[github]](https://github.com/AntonOsika/gpt-engineer)  
-
-
