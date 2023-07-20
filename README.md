@@ -74,7 +74,9 @@ Must-read Papers on Multi-agents of large language models.
 12. **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
 
     *Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji.* [[abs](https://arxiv.org/abs/2307.05300)], 2023.7
+13. **Communicative Agents for Software Development**
 
+    *Chen Qian, Xin Cong, Cheng Yang, Weize Chen, Yusheng Su, Juyuan Xu, Zhiyuan Liu, Maosong Sun.* [[abs](https://arxiv.org/abs/2307.07924)], 2023.7
 
 
 ### Agent + Environment
