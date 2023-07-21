@@ -133,7 +133,9 @@ Must-read Papers on Multi-agents of large language models.
 
     *Ruibo Liu, Ruixin Yang, Chenyan Jia, Ge Zhang, Denny Zhou, Andrew M. Dai, Diyi Yang, Soroush Vosoughi.* [[abs](https://arxiv.org/abs/2305.16960)], 2023.5
 
-    
+14. **Towards A Unified Agent with Foundation Models.**
+
+    *Norman Di Palo, Arunkumar Byravan, Leonard Hasenclever, Markus Wulfmeier, Nicolas Heess, Martin Riedmiller.* [[abs](https://arxiv.org/abs/2307.09668)], 2023.7    
 
 ## 🧰 Tools
 
