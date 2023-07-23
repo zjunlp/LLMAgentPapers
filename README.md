@@ -166,3 +166,7 @@ Must-read Papers on Multi-agents of large language models.
 7. **GPT Engineer.**
 
    GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.  [[github]](https://github.com/AntonOsika/gpt-engineer)  
+
+8. **MetaGPT: The Multi-Agent Framework**
+
+   Assign different roles to GPTs to form a collaborative software entity for complex tasks.  [[github](https://github.com/geekan/MetaGPT)]
