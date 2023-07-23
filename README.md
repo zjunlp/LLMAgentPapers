@@ -77,6 +77,11 @@ Must-read Papers on Multi-agents of large language models.
 13. **Communicative Agents for Software Development**
 
     *Chen Qian, Xin Cong, Cheng Yang, Weize Chen, Yusheng Su, Juyuan Xu, Zhiyuan Liu, Maosong Sun.* [[abs](https://arxiv.org/abs/2307.07924)], 2023.7
+14. **To Infinity and Beyond: SHOW-1 and Showrunner Agents in Multi-Agent Simulations**
+
+    *Philipp Maas, Frank Carey, Chris Wheeler, Edward Saatchi, Pete Billington, Jessica Yaffa Shamash.* [[abs](https://fablestudio.github.io/showrunner-agents/static/pdfs/To_Infinity_and_Beyond_SHOW-1_And_Showrunner_Agents_in_Multi_Agent_Simulations.pdf)], 2023.7
+
+    
 
 
 ### Agent + Environment
