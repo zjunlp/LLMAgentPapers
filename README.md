@@ -176,6 +176,18 @@ Must-read Papers on Multi-agents of large language models.
 
    Assign different roles to GPTs to form a collaborative software entity for complex tasks.  [[github](https://github.com/geekan/MetaGPT)]
 
-9. **Langroid.**
-    
-    Harness LLMs with Multi-Agent Programming.  [[github](https://github.com/langroid/langroid)]
+9. **WorkGPT.**
+
+   A GPT agent framework for invoking APIs.  [[github](https://github.com/team-openpm/workgpt)]
+
+10. **AutoChain.**
+
+    Build lightweight, extensible, and testable LLM Agents. [[github](https://github.com/Forethought-Technologies/AutoChain)]
+
+11. **Langroid.**
+
+    Harness LLMs with Multi-Agent Programming.[[github](https://github.com/langroid/langroid)]
+
+12. **SocraticAI.**
+
+    Problem solving by engaging multiple AI agents in conversation with each other and the user. [[github](https://github.com/RunzheYang/SocraticAI)]
