@@ -142,52 +142,70 @@ Must-read Papers on Multi-agents of large language models.
 
     *Norman Di Palo, Arunkumar Byravan, Leonard Hasenclever, Markus Wulfmeier, Nicolas Heess, Martin Riedmiller.* [[abs](https://arxiv.org/abs/2307.09668)], 2023.7    
 
-## 🧰 Tools
+## 🛠️ Tools
+
+###  Types of Tools
+
+|      Types      | Tools                                                        |
+| :-------------: | ------------------------------------------------------------ |
+| Agent with tool | [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)、[LangChain](https://github.com/hwchase17/langchain)、[Transformer Agents](https://huggingface.co/docs/transformers/transformers_agents)、[WorkGPT](https://github.com/team-openpm/workgpt)、[AutoChain ](https://github.com/Forethought-Technologies/AutoChain)、[Langroid](https://github.com/langroid/langroid) 、 [WebArena](https://github.com/web-arena-x/webarena) |
+|   Multi-Agent   | [CAMEL](https://github.com/camel-ai/camel)、[GPTeam](https://github.com/101dotxyz/GPTeam)、[AgentVerse](https://github.com/OpenBMB/AgentVerse)、[MetaGPT](https://github.com/geekan/MetaGPT)、[Langroid](https://github.com/langroid/langroid)、[SocraticAI](https://github.com/RunzheYang/SocraticAI) |
+|     Others      | [AutoAgents](https://github.com/AutoLLM/AutoAgents)  ![img](https://img.shields.io/badge/-Reasoning-blue) 、[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)  ![img](https://img.shields.io/badge/-Code-pink) |
+
+### 📜 List
 
 1. **AutoGPT.** 
 
    Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model.  [[github](https://github.com/Significant-Gravitas/Auto-GPT)] 
 
-2. **CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society.** 
+2. **LangChain.**
+
+   A library designed to help developers build applications using LLMs combined with other sources of computation or knowledge. [[github](https://github.com/hwchase17/langchain)]
+
+3. **CAMEL.** 
 
    CAMEL is an open-source library designed for the study of autonomous and communicative agents.  [[github](https://github.com/camel-ai/camel)]
 
-3. **GPTeam: Collaborative AI Agents.** 
+4. **GPTeam.** 
 
    GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals. The main objective of this project is to explore the potential of GPT models in enhancing multi-agent productivity and effective communication. [[github](https://github.com/101dotxyz/GPTeam)]
 
-4. **Transformer Agents.**
+5. **Transformer Agents.**
 
    In short, it provides a natural language API on top of transformers: we define a set of curated tools and design an agent to interpret natural language and to use these tools.  [[github](https://huggingface.co/docs/transformers/transformers_agents)]
 
-5. **AgentVerse.** 
+6. **AgentVerse.** 
 
    A Framework for Multi-LLM Environment Simulation.  [[github]](https://github.com/OpenBMB/AgentVerse)  
 
-6. **AutoAgents.**
+7. **AutoAgents**
 
    AutoAgents - Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.  [[github]](https://github.com/AutoLLM/AutoAgents)  
 
-7. **GPT Engineer.**
+8. **GPT Engineer.**
 
    GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.  [[github]](https://github.com/AntonOsika/gpt-engineer)  
 
-8. **MetaGPT: The Multi-Agent Framework.**
+9. **MetaGPT.**
 
    Assign different roles to GPTs to form a collaborative software entity for complex tasks.  [[github](https://github.com/geekan/MetaGPT)]
 
-9. **WorkGPT.**
+10. **WorkGPT.**
 
-   A GPT agent framework for invoking APIs.  [[github](https://github.com/team-openpm/workgpt)]
+    A GPT agent framework for invoking APIs.  [[github](https://github.com/team-openpm/workgpt)]
 
-10. **AutoChain.**
+11. **AutoChain.**
 
     Build lightweight, extensible, and testable LLM Agents. [[github](https://github.com/Forethought-Technologies/AutoChain)]
 
-11. **Langroid.**
+12. **Langroid.**
 
     Harness LLMs with Multi-Agent Programming.[[github](https://github.com/langroid/langroid)]
 
-12. **SocraticAI.**
+13. **SocraticAI.**
 
     Problem solving by engaging multiple AI agents in conversation with each other and the user. [[github](https://github.com/RunzheYang/SocraticAI)]
+
+14. **WebArena.**
+
+    A Realistic Web Environment for Building Autonomous Agents. [[github](https://github.com/web-arena-x/webarena)]
