@@ -89,7 +89,18 @@ Must-read Papers on Multi-agents of large language models.
     
     *Yifan Song, Weimin Xiong, Dawei Zhu, Cheng Li, Ke Wang, Ye Tian, Sujian Li*. [[abs](https://arxiv.org/abs/2306.06624)], 2023.6
 
+17. **Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback**
 
+    *Yao Fu, Hao Peng, Tushar Khot, Mirella Lapata.* [[abs](https://arxiv.org/abs/2305.10142)], 2023.5
+
+18. **Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents**
+
+    *Yashar Talebirad, Amirhossein Nadiri.* [[abs](https://arxiv.org/pdf/2306.03314.pdf)], 2023.6
+
+19. **Building Cooperative Embodied Agents Modularly with Large Language Models**
+
+    *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.*  [[abs](https://arxiv.org/abs/2307.02485)], 2023.7
+    
 ### Agent + Environment
 
 1. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**
