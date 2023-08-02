@@ -81,7 +81,13 @@ Must-read Papers on Multi-agents of large language models.
 
     *Philipp Maas, Frank Carey, Chris Wheeler, Edward Saatchi, Pete Billington, Jessica Yaffa Shamash.* [[abs](https://fablestudio.github.io/showrunner-agents/static/pdfs/To_Infinity_and_Beyond_SHOW-1_And_Showrunner_Agents_in_Multi_Agent_Simulations.pdf)], 2023.7
 
+15. **MetaGPT: Meta Programming For Multi-Agent  Collaborative Framework**
+
+    *Sirui Hong, Xiawu Zheng, Jonathan Chen, Yuheng Cheng, Ceyao Zhang, Zili Wang, Steven Ka Shing Yau, Zijuan Lin, Liyang Zhou, Chenyu Ran, Lingfeng Xiao, Chenglin Wu.* [[abs](https://arxiv.org/abs/2308.00352)], 2023.8
+
+16. **RestGPT: Connecting Large Language Models with Real-World Applications via RESTful APIs**
     
+    *Yifan Song, Weimin Xiong, Dawei Zhu, Cheng Li, Ke Wang, Ye Tian, Sujian Li*. [[abs](https://arxiv.org/abs/2306.06624)], 2023.6
 
 
 ### Agent + Environment
