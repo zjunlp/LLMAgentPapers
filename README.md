@@ -9,8 +9,9 @@ Must-read Papers on Multi-agents of large language models.
 
 - [🌄 Papers](#-papers)
   - [Overview](#overview)
-  - [Multiple Agents](#multiple-agents)
   - [Agent + Environment](#agent--environment)
+  - [Multiple Agents](#multiple-agents)
+    
 - [🧰 Tools](#-tools)
 
 
@@ -23,6 +24,63 @@ Must-read Papers on Multi-agents of large language models.
 
    Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu. [[abs]](https://arxiv.org/abs/2305.13246), 2023.5
 
+### Agent + Environment
+
+1. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**
+
+   *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch*. [[abs](https://arxiv.org/abs/2201.07207)], 2022.1
+
+2. **Inner Monologue: Embodied Reasoning through Planning with Language Models**
+
+   *Wenlong Huang , Fei Xia , Ted Xiao , Harris Chan, Jacky Liang, Pete Florence, Andy Zeng, Jonathan Tompson, Igor Mordatch, Yevgen Chebotar, Pierre Sermanet, Noah Brown, Tomas Jackson, Linda Luu, Sergey Levine, Karol Hausman, Brian Ichter*. [[abs](https://arxiv.org/abs/2207.05608)], 2022.7
+
+3. **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**
+
+   *Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su*. [[abs](https://arxiv.org/abs/2212.04088)], 2022.12
+
+4. **Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling**
+
+   *Kolby Nottingham, Prithviraj Ammanabrolu, Alane Suhr, Yejin Choi, Hannaneh Hajishirzi, Sameer Singh, Roy Fox*. [[abs](https://arxiv.org/abs/2301.12050)], 2023.1
+
+5. **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**
+
+   *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang*. [[abs](https://arxiv.org/abs/2302.01560)], 2023.2
+
+6. **PaLM-E: An embodied multimodal language model**
+
+   *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence.* [[abs](https://arxiv.org/abs/2303.03378)], 2023.3
+
+7. **Chat with the Environment: Interactive Multimodal Perception using Large Language Models**
+
+   *Xufeng Zhao, Mengdi Li, Cornelius Weber, Muhammad Burhan Hafez, Stefan Wermter*. [[abs](https://arxiv.org/abs/2303.08268)], 2023.3
+
+8. **Generative Agents: Interactive Simulacra of Human Behavior**
+
+   *Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein.* [[abs](https://arxiv.org/abs/2304.03442)], 2023.4
+
+9. **Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents**
+
+   *Yue Wu, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye*. [[abs](https://arxiv.org/abs/2305.02412)], 2023.5
+
+10. **Voyager: An Open-Ended Embodied Agent with Large Language Models**
+
+    *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*. [[abs](https://arxiv.org/abs/2305.16291)], 2023.5
+
+11. **SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks**
+
+    *Bill Yuchen Lin, Yicheng Fu, Karina Yang, Prithviraj Ammanabrolu, Faeze Brahman, Shiyu Huang, Chandra Bhagavatula, Yejin Choi, Xiang Ren.* [[abs](https://arxiv.org/abs/2305.17390)], 2023.5
+
+12. **Language Models Meet World Models: Embodied Experiences Enhance Language Models**
+
+    *Jiannan Xiang, Tianhua Tao, Yi Gu, Tianmin Shu, Zirui Wang, Zichao Yang, Zhiting Hu.* [[abs](https://arxiv.org/abs/2305.10626)], 2023.5
+
+13. **Training Socially Aligned Language Models in Simulated Human Society.**
+
+    *Ruibo Liu, Ruixin Yang, Chenyan Jia, Ge Zhang, Denny Zhou, Andrew M. Dai, Diyi Yang, Soroush Vosoughi.* [[abs](https://arxiv.org/abs/2305.16960)], 2023.5
+
+14. **Towards A Unified Agent with Foundation Models.**
+
+    *Norman Di Palo, Arunkumar Byravan, Leonard Hasenclever, Markus Wulfmeier, Nicolas Heess, Martin Riedmiller.* [[abs](https://arxiv.org/abs/2307.09668)], 2023.7
 
 
 ### Multiple Agents
@@ -101,128 +159,46 @@ Must-read Papers on Multi-agents of large language models.
 
     *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.*  [[abs](https://arxiv.org/abs/2307.02485)], 2023.7
     
-### Agent + Environment
 
-1. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**
 
-   *Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch*. [[abs](https://arxiv.org/abs/2201.07207)], 2022.1
-
-2. **Inner Monologue: Embodied Reasoning through Planning with Language Models**
-
-   *Wenlong Huang , Fei Xia , Ted Xiao , Harris Chan, Jacky Liang, Pete Florence, Andy Zeng, Jonathan Tompson, Igor Mordatch, Yevgen Chebotar, Pierre Sermanet, Noah Brown, Tomas Jackson, Linda Luu, Sergey Levine, Karol Hausman, Brian Ichter*. [[abs](https://arxiv.org/abs/2207.05608)], 2022.7
-
-3. **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**
-
-   *Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su*. [[abs](https://arxiv.org/abs/2212.04088)], 2022.12
-
-4. **Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling**
-
-   *Kolby Nottingham, Prithviraj Ammanabrolu, Alane Suhr, Yejin Choi, Hannaneh Hajishirzi, Sameer Singh, Roy Fox*. [[abs](https://arxiv.org/abs/2301.12050)], 2023.1
-
-5. **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**
-
-   *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang*. [[abs](https://arxiv.org/abs/2302.01560)], 2023.2
-
-6. **PaLM-E: An embodied multimodal language model**
-
-   *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence.* [[abs](https://arxiv.org/abs/2303.03378)], 2023.3
-
-7. **Chat with the Environment: Interactive Multimodal Perception using Large Language Models**
-
-   *Xufeng Zhao, Mengdi Li, Cornelius Weber, Muhammad Burhan Hafez, Stefan Wermter*. [[abs](https://arxiv.org/abs/2303.08268)], 2023.3
-
-8. **Generative Agents: Interactive Simulacra of Human Behavior**
-
-   *Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein.* [[abs](https://arxiv.org/abs/2304.03442)], 2023.4
-
-9. **Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents**
-
-   *Yue Wu, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye*. [[abs](https://arxiv.org/abs/2305.02412)], 2023.5
-
-10. **Voyager: An Open-Ended Embodied Agent with Large Language Models**
-
-    *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*. [[abs](https://arxiv.org/abs/2305.16291)], 2023.5
-
-11. **SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks**
-
-    *Bill Yuchen Lin, Yicheng Fu, Karina Yang, Prithviraj Ammanabrolu, Faeze Brahman, Shiyu Huang, Chandra Bhagavatula, Yejin Choi, Xiang Ren.* [[abs](https://arxiv.org/abs/2305.17390)], 2023.5
-
-12. **Language Models Meet World Models: Embodied Experiences Enhance Language Models**
-
-    *Jiannan Xiang, Tianhua Tao, Yi Gu, Tianmin Shu, Zirui Wang, Zichao Yang, Zhiting Hu.* [[abs](https://arxiv.org/abs/2305.10626)], 2023.5
-
-13. **Training Socially Aligned Language Models in Simulated Human Society.**
-
-    *Ruibo Liu, Ruixin Yang, Chenyan Jia, Ge Zhang, Denny Zhou, Andrew M. Dai, Diyi Yang, Soroush Vosoughi.* [[abs](https://arxiv.org/abs/2305.16960)], 2023.5
-
-14. **Towards A Unified Agent with Foundation Models.**
-
-    *Norman Di Palo, Arunkumar Byravan, Leonard Hasenclever, Markus Wulfmeier, Nicolas Heess, Martin Riedmiller.* [[abs](https://arxiv.org/abs/2307.09668)], 2023.7    
-
-## 🛠️ Tools
+## 🧰 Tools
 
 ###  Types of Tools
 
 |      Types      | Tools                                                        |
 | :-------------: | ------------------------------------------------------------ |
-| Agent with tool | [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)、[LangChain](https://github.com/hwchase17/langchain)、[Transformer Agents](https://huggingface.co/docs/transformers/transformers_agents)、[WorkGPT](https://github.com/team-openpm/workgpt)、[AutoChain ](https://github.com/Forethought-Technologies/AutoChain)、[Langroid](https://github.com/langroid/langroid) 、 [WebArena](https://github.com/web-arena-x/webarena) |
+| Agent with tool | [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)、[LangChain](https://github.com/hwchase17/langchain)、[Transformer Agents](https://huggingface.co/docs/transformers/transformers_agents)、[WorkGPT](https://github.com/team-openpm/workgpt)、[AutoChain ](https://github.com/Forethought-Technologies/AutoChain)、[Langroid](https://github.com/langroid/langroid)、 [WebArena](https://github.com/web-arena-x/webarena)、[GPT Researcher](https://github.com/assafelovic/gpt-researcher)、 |
 |   Multi-Agent   | [CAMEL](https://github.com/camel-ai/camel)、[GPTeam](https://github.com/101dotxyz/GPTeam)、[AgentVerse](https://github.com/OpenBMB/AgentVerse)、[MetaGPT](https://github.com/geekan/MetaGPT)、[Langroid](https://github.com/langroid/langroid)、[SocraticAI](https://github.com/RunzheYang/SocraticAI) |
-|     Others      | [AutoAgents](https://github.com/AutoLLM/AutoAgents)  ![img](https://img.shields.io/badge/-Reasoning-blue) 、[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)  ![img](https://img.shields.io/badge/-Code-pink) |
+|     Others      | [AutoAgents](https://github.com/AutoLLM/AutoAgents)![img](https://img.shields.io/badge/-Reasoning-blue) 、[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)  ![img](https://img.shields.io/badge/-Code-pink) |
 
 ### 📜 List
 
-1. **AutoGPT.** 
+- **[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT).** An experimental open-source attempt to make GPT-4 fully autonomous.
 
-   Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model.  [[github](https://github.com/Significant-Gravitas/Auto-GPT)] 
+- **[LangChain](https://github.com/hwchase17/langchain).**  Building applications with LLMs through composability.
 
-2. **LangChain.**
+- **[CAMEL](https://github.com/camel-ai/camel).**  Communicative Agents for “Mind” Exploration of Large Scale Language Model Society.
 
-   A library designed to help developers build applications using LLMs combined with other sources of computation or knowledge. [[github](https://github.com/hwchase17/langchain)]
+- **[GPTeam](https://github.com/101dotxyz/GPTeam).**  GPTeam: An open-source multi-agent simulation. 
 
-3. **CAMEL.** 
+- **[Transformer Agents](https://huggingface.co/docs/transformers/transformers_agents).**  In short, it provides a natural language API on top of transformers: we define a set of curated tools and design an agent to interpret natural language and to use these tools.  
 
-   CAMEL is an open-source library designed for the study of autonomous and communicative agents.  [[github](https://github.com/camel-ai/camel)]
+- **[AgentVerse](https://github.com/OpenBMB/AgentVerse) .**  A Framework for Multi-LLM Environment Simulation.  
 
-4. **GPTeam.** 
+- **[AutoAgents](https://github.com/AutoLLM/AutoAgents).** Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.
 
-   GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals. The main objective of this project is to explore the potential of GPT models in enhancing multi-agent productivity and effective communication. [[github](https://github.com/101dotxyz/GPTeam)]
+- **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer) .**  Specify what you want it to build, the AI asks for clarification, and then builds it.  
 
-5. **Transformer Agents.**
+- **[MetaGPT](https://github.com/geekan/MetaGPT).** The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 
-   In short, it provides a natural language API on top of transformers: we define a set of curated tools and design an agent to interpret natural language and to use these tools.  [[github](https://huggingface.co/docs/transformers/transformers_agents)]
+- **[WorkGPT](https://github.com/team-openpm/workgpt).** A GPT agent framework for invoking APIs.  
 
-6. **AgentVerse.** 
+- **[AutoChain](https://github.com/Forethought-Technologies/AutoChain).** Build lightweight, extensible, and testable LLM Agents. 
 
-   A Framework for Multi-LLM Environment Simulation.  [[github]](https://github.com/OpenBMB/AgentVerse)  
+- **[Langroid](https://github.com/langroid/langroid).** Harness LLMs with Multi-Agent Programming.
 
-7. **AutoAgents**
+- **[SocraticAI](https://github.com/RunzheYang/SocraticAI).** Problem solving by engaging multiple AI agents in conversation with each other and the user. 
 
-   AutoAgents - Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.  [[github]](https://github.com/AutoLLM/AutoAgents)  
+- **[WebArena](https://github.com/web-arena-x/webarena).** A Realistic Web Environment for Building Autonomous Agents. 
 
-8. **GPT Engineer.**
-
-   GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.  [[github]](https://github.com/AntonOsika/gpt-engineer)  
-
-9. **MetaGPT.**
-
-   Assign different roles to GPTs to form a collaborative software entity for complex tasks.  [[github](https://github.com/geekan/MetaGPT)]
-
-10. **WorkGPT.**
-
-    A GPT agent framework for invoking APIs.  [[github](https://github.com/team-openpm/workgpt)]
-
-11. **AutoChain.**
-
-    Build lightweight, extensible, and testable LLM Agents. [[github](https://github.com/Forethought-Technologies/AutoChain)]
-
-12. **Langroid.**
-
-    Harness LLMs with Multi-Agent Programming.[[github](https://github.com/langroid/langroid)]
-
-13. **SocraticAI.**
-
-    Problem solving by engaging multiple AI agents in conversation with each other and the user. [[github](https://github.com/RunzheYang/SocraticAI)]
-
-14. **WebArena.**
-
-    A Realistic Web Environment for Building Autonomous Agents. [[github](https://github.com/web-arena-x/webarena)]
+- **[GPT Researcher](https://github.com/assafelovic/gpt-researcher).** GPT based autonomous agent that does online comprehensive research on any given topic.
