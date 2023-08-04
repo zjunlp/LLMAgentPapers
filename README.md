@@ -9,8 +9,9 @@ Must-read Papers on Multi-agents of large language models.
 
 - [🌄 Papers](#-papers)
   - [Overview](#overview)
-  - [Agent + Environment](#agent--environment)
-  - [Multiple Agents](#multiple-agents)
+  - [Agent](#-agent)
+  - [Agent + Environment](#-agent--environment)
+  - [Multiple Agents](#-multiple-agents)
     
 - [🧰 Tools](#-tools)
 
@@ -24,7 +25,38 @@ Must-read Papers on Multi-agents of large language models.
 
    Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu. [[abs]](https://arxiv.org/abs/2305.13246), 2023.5
 
-### Agent + Environment
+### 🤖 Agent
+
+1. **ReAct: Synergizing Reasoning and Acting in Language Models**
+
+   *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao.* [[abs](https://arxiv.org/abs/2210.03629)], 2022.10
+
+2. **Reflexion: Language Agents with Verbal Reinforcement Learning**
+
+   *Noah Shinn, Federico Cassano, Beck Labash, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao.* [[abs](https://arxiv.org/abs/2303.11366)], 2023.3
+
+3. **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**
+
+   *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang.* [[abs](https://arxiv.org/abs/2303.17580)], 2023.3
+
+4. **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**
+
+   *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.* [[abs](https://arxiv.org/abs/2303.04671)], 2023.3
+
+5. **ChemCrow: Augmenting large-language models with chemistry tools**
+
+   *Andres M Bran, Sam Cox, Andrew D White, Philippe Schwaller.* [[abs](https://arxiv.org/abs/2304.05376)], 2023.4
+
+6. **ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**
+
+   *Zhipeng Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2305.14323)], 2023.5
+
+7. **RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text**
+
+   *Wangchunshu Zhou, Yuchen Eleanor Jiang, Peng Cui, Tiannan Wang, Zhenxin Xiao, Yifan Hou, Ryan Cotterell, Mrinmaya Sachan.* [[abs](https://arxiv.org/abs/2305.13304)], 2023.5
+
+
+### 🤖🌎 Agent + Environment
 
 1. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**
 
@@ -83,7 +115,7 @@ Must-read Papers on Multi-agents of large language models.
     *Norman Di Palo, Arunkumar Byravan, Leonard Hasenclever, Markus Wulfmeier, Nicolas Heess, Martin Riedmiller.* [[abs](https://arxiv.org/abs/2307.09668)], 2023.7
 
 
-### Multiple Agents
+###  🤖💬🤖 Multiple Agents
 
 1. **CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society**
 
