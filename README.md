@@ -55,6 +55,8 @@ Must-read Papers on Multi-agents of large language models.
 
    *Wangchunshu Zhou, Yuchen Eleanor Jiang, Peng Cui, Tiannan Wang, Zhenxin Xiao, Yifan Hou, Ryan Cotterell, Mrinmaya Sachan.* [[abs](https://arxiv.org/abs/2305.13304)], 2023.5
 
+8. **Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization**
+   *Weiran Yao, Shelby Heinecke, Juan Carlos Niebles, Zhiwei Liu, Yihao Feng, Le Xue, Rithesh Murthy, Zeyuan Chen, Jianguo Zhang, Devansh Arpit, Ran Xu, Phil Mui, Huan Wang, Caiming Xiong, Silvio Savarese.*  [[abs](https://arxiv.org/abs/2308.02151)], 2023.8
 
 ### 🤖🌎 Agent + Environment
 
