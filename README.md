@@ -234,3 +234,7 @@ Must-read Papers on Multi-agents of large language models.
 - **[WebArena](https://github.com/web-arena-x/webarena).** A Realistic Web Environment for Building Autonomous Agents. 
 
 - **[GPT Researcher](https://github.com/assafelovic/gpt-researcher).** GPT based autonomous agent that does online comprehensive research on any given topic.
+  
+- **[BMTools](https://github.com/OpenBMB/BMTools).** Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
+  
+- **[ToolBench](https://github.com/OpenBMB/ToolBench).** An open platform for training, serving, and evaluating large language model for tool learning.
