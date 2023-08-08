@@ -195,7 +195,7 @@ Must-read Papers on Multi-agents of large language models.
 
 18. **Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents**
 
-    *Yashar Talebirad, Amirhossein Nadiri.* [[abs](https://arxiv.org/pdf/2306.03314.pdf)], 2023.6
+    *Yashar Talebirad, Amirhossein Nadiri.* [[abs](https://arxiv.org/abs/2306.03314)], 2023.6
 
 19. **Building Cooperative Embodied Agents Modularly with Large Language Models**
 
