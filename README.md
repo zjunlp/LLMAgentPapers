@@ -9,6 +9,7 @@ Must-read Papers on Multi-agents of large language models.
 
 - [🌄 Papers](#-papers)
   - [Overview](#overview)
+  - [Benchmark](#benchmark)
   - [Agent](#-agent)
   - [Agent + Environment](#-agent--environment)
   - [Multiple Agents](#-multiple-agents)
@@ -25,6 +26,12 @@ Must-read Papers on Multi-agents of large language models.
 
    Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu. [[abs]](https://arxiv.org/abs/2305.13246), 2023.5
 
+### Benchmark
+
+1. **AgentBench: Evaluating LLMs as Agents**
+
+   *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang*. [[abs](https://arxiv.org/abs/2308.03688)], 2023.8
+   
 ### 🤖 Agent
 
 1. **ReAct: Synergizing Reasoning and Acting in Language Models**
@@ -56,6 +63,7 @@ Must-read Papers on Multi-agents of large language models.
    *Wangchunshu Zhou, Yuchen Eleanor Jiang, Peng Cui, Tiannan Wang, Zhenxin Xiao, Yifan Hou, Ryan Cotterell, Mrinmaya Sachan.* [[abs](https://arxiv.org/abs/2305.13304)], 2023.5
 
 8. **Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization**
+   
    *Weiran Yao, Shelby Heinecke, Juan Carlos Niebles, Zhiwei Liu, Yihao Feng, Le Xue, Rithesh Murthy, Zeyuan Chen, Jianguo Zhang, Devansh Arpit, Ran Xu, Phil Mui, Huan Wang, Caiming Xiong, Silvio Savarese.*  [[abs](https://arxiv.org/abs/2308.02151)], 2023.8
 
 ### 🤖🌎 Agent + Environment
