@@ -4,6 +4,23 @@
 
 Must-read Papers on Multi-agents of large language models.
 
+---
+
+*"Here are some other paper lists you might be interested in:*
+
+💡 **[Prompt4ReasoningPapers](https://github.com/zjunlp/Prompt4ReasoningPapers):** Reasoning with Language Model Prompting Papers.
+
+🔬 **[Model Editing Papers](https://arxiv.org/abs/2305.13172) :**  Must-read papers on with large language models.
+
+*We sincerely invite you to dive into these collections of papers and resources, each offering a distinct journey of exploration and discovery.*  :partying_face:”
+
+---
+
+## 🔔 News
+
+- **2023-06-18 We create this repository to maintain a paper list on *Multi-agents* .**
+
+---
 
 ## 📜Content
 
@@ -17,6 +34,7 @@ Must-read Papers on Multi-agents of large language models.
 - [🧰 Tools](#-tools)
 
 
+---
 
 ## 🌄 Papers
 
@@ -208,6 +226,7 @@ Must-read Papers on Multi-agents of large language models.
 
     *Binfeng Xu, Xukun Liu, Hua Shen, Zeyu Han, Yuhan Li, Murong Yue, Zhiyuan Peng, Yuchen Liu, Ziyu Yao, Dongkuan Xu.* [[abs](https://arxiv.org/abs/2308.04030)], 2023.8
 
+---
 
 ## 🧰 Tools
 
@@ -254,3 +273,17 @@ Must-read Papers on Multi-agents of large language models.
 - **[BMTools](https://github.com/OpenBMB/BMTools).** Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
   
 - **[ToolBench](https://github.com/OpenBMB/ToolBench).** An open platform for training, serving, and evaluating large language model for tool learning.
+
+---
+
+## 🎉 Contribution
+
+### Contributing to this paper list
+
+⭐" **Join us in improving this repository!** If you know of any important works we've missed, please contribute. Your efforts are highly valued!   "
+
+### Contributors
+
+<a href="https://github.com/zjunlp/LLMAgentPapers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zjunlp/LLMAgentPapers" />
+</a>
