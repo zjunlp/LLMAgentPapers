@@ -124,6 +124,9 @@ Must-read Papers on Multi-agents of large language models.
 
     *Norman Di Palo, Arunkumar Byravan, Leonard Hasenclever, Markus Wulfmeier, Nicolas Heess, Martin Riedmiller.* [[abs](https://arxiv.org/abs/2307.09668)], 2023.7
 
+15. **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation**
+
+    *Jiaju Lin, Haoran Zhao, Aochi Zhang, Yiting Wu, Huqiuyue Ping, Qin Chen.* [[abs](https://arxiv.org/abs/2308.04026)], 2023.8
 
 ###  🤖💬🤖 Multiple Agents
 
@@ -200,7 +203,10 @@ Must-read Papers on Multi-agents of large language models.
 19. **Building Cooperative Embodied Agents Modularly with Large Language Models**
 
     *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.*  [[abs](https://arxiv.org/abs/2307.02485)], 2023.7
-    
+
+20. **Gentopia: A Collaborative Platform for Tool-Augmented LLMs**
+
+    *Binfeng Xu, Xukun Liu, Hua Shen, Zeyu Han, Yuhan Li, Murong Yue, Zhiyuan Peng, Yuchen Liu, Ziyu Yao, Dongkuan Xu.* [[abs](https://arxiv.org/abs/2308.04030)], 2023.8
 
 
 ## 🧰 Tools
