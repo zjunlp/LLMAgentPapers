@@ -14,13 +14,13 @@ Must-read Papers on Multi-agents of large language models.
 
 *We sincerely invite you to dive into these collections of papers and resources, each offering a distinct journey of exploration and discovery.*  :partying_face:”
 
----
+
 
 ## 🔔 News
 
 - **2023-06-18 We create this repository to maintain a paper list on *Multi-agents* .**
 
----
+
 
 ## 📜Content
 
@@ -34,7 +34,7 @@ Must-read Papers on Multi-agents of large language models.
 - [🧰 Tools](#-tools)
 
 
----
+
 
 ## 🌄 Papers
 
