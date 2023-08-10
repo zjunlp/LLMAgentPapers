@@ -146,9 +146,13 @@ Must-read Papers on Large Language Model Agents.
 
     *Norman Di Palo, Arunkumar Byravan, Leonard Hasenclever, Markus Wulfmeier, Nicolas Heess, Martin Riedmiller.* [[abs](https://arxiv.org/abs/2307.09668)], 2023.7
 
+16. **Epidemic Modeling with Generative Agents.**
+
+    *Ross Williams, Niyousha Hosseinichimeh, Aritra Majumdar, Navid Ghaffarzadegan.* [[abs](https://arxiv.org/abs/2307.04986)], 2023.7
+
 17. **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation**
 
-    *Jiaju Lin, Haoran Zhao, Aochi Zhang, Yiting Wu, Huqiuyue Ping, Qin Chen.* [[abs](https://arxiv.org/abs/2308.04026)], 2023.8
+    *Jiaju Lin, Haoran Zhao, Aochi Zhang, Yiting Wu, Huqiuyue Ping, Qin Chen*. [[abs](https://arxiv.org/abs/2308.04026)], 2023.8
 
 ###  🤖💬🤖 Multiple Agents
 
