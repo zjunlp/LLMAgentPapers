@@ -138,11 +138,15 @@ Must-read Papers on Large Language Model Agents.
 
     *Ruibo Liu, Ruixin Yang, Chenyan Jia, Ge Zhang, Denny Zhou, Andrew M. Dai, Diyi Yang, Soroush Vosoughi.* [[abs](https://arxiv.org/abs/2305.16960)], 2023.5
 
-14. **Towards A Unified Agent with Foundation Models.**
+14. **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory**
+
+    *Xizhou Zhu, Yuntao Chen, Hao Tian, Chenxin Tao, Weijie Su, Chenyu Yang, Gao Huang, Bin Li, Lewei Lu, Xiaogang Wang, Yu Qiao, Zhaoxiang Zhang, Jifeng Dai.* [[abs](https://arxiv.org/abs/2305.17144)], 2023.5
+   
+16. **Towards A Unified Agent with Foundation Models.**
 
     *Norman Di Palo, Arunkumar Byravan, Leonard Hasenclever, Markus Wulfmeier, Nicolas Heess, Martin Riedmiller.* [[abs](https://arxiv.org/abs/2307.09668)], 2023.7
 
-15. **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation**
+17. **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation**
 
     *Jiaju Lin, Haoran Zhao, Aochi Zhang, Yiting Wu, Huqiuyue Ping, Qin Chen.* [[abs](https://arxiv.org/abs/2308.04026)], 2023.8
 
@@ -222,7 +226,11 @@ Must-read Papers on Large Language Model Agents.
 
     *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.*  [[abs](https://arxiv.org/abs/2307.02485)], 2023.7
 
-20. **Gentopia: A Collaborative Platform for Tool-Augmented LLMs**
+20. **S^3: Social-network Simulation System with Large Language Model-Empowered Agents**
+
+    *Chen Gao, Xiaochong Lan, Zhihong Lu, Jinzhu Mao, Jinghua Piao, Huandong Wang, Depeng Jin, Yong Li.* [[abs](https://arxiv.org/abs/2307.14984)],2023.7
+
+21. **Gentopia: A Collaborative Platform for Tool-Augmented LLMs**
 
     *Binfeng Xu, Xukun Liu, Hua Shen, Zeyu Han, Yuhan Li, Murong Yue, Zhiyuan Peng, Yuchen Liu, Ziyu Yao, Dongkuan Xu.* [[abs](https://arxiv.org/abs/2308.04030)], 2023.8
 
