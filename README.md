@@ -496,7 +496,11 @@ Must-read Papers on Large Language Model Agents.
 
 ### Benchmarks
 
-1. **AgentBench: Evaluating LLMs as Agents**
+1. **The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions**
+    
+    *Yujia Peng , Jiaheng Han, Zhenliang Zhang , Lifeng Fan , Tengyu Liu, Siyuan Qi, Xue Feng, Yuxi Ma, Yizhou Wang, Song-Chun Zhu.* [[abs](https://www.sciencedirect.com/science/article/pii/S209580992300293X)], 2023.7
+   
+2. **AgentBench: Evaluating LLMs as Agents**
 
    *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang*. [[abs](https://arxiv.org/abs/2308.03688)], 2023.8
    
