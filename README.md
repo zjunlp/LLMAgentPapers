@@ -246,7 +246,7 @@ Must-read Papers on Large Language Model Agents.
 
 |      Types      | Tools                                                        |
 | :-------------: | ------------------------------------------------------------ |
-| Agent with tool | [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)、[LangChain](https://github.com/hwchase17/langchain)、[Transformer Agents](https://huggingface.co/docs/transformers/transformers_agents)、[WorkGPT](https://github.com/team-openpm/workgpt)、[AutoChain ](https://github.com/Forethought-Technologies/AutoChain)、[Langroid](https://github.com/langroid/langroid)、 [WebArena](https://github.com/web-arena-x/webarena)、[GPT Researcher](https://github.com/assafelovic/gpt-researcher)、[BMTools](https://github.com/OpenBMB/BMTools)、[ToolBench](https://github.com/OpenBMB/ToolBench) |
+| Agent with tool | [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)、[LangChain](https://github.com/hwchase17/langchain)、[Transformer Agents](https://huggingface.co/docs/transformers/transformers_agents)、[WorkGPT](https://github.com/team-openpm/workgpt)、[AutoChain ](https://github.com/Forethought-Technologies/AutoChain)、[Langroid](https://github.com/langroid/langroid)、 [WebArena](https://github.com/web-arena-x/webarena)、[GPT Researcher](https://github.com/assafelovic/gpt-researcher)、[BMTools](https://github.com/OpenBMB/BMTools)、[ToolBench](https://github.com/OpenBMB/ToolBench) 、[AgentGPT](https://github.com/reworkd/AgentGPT)、[xlang](https://github.com/xlang-ai/xlang) |
 |   Multi-Agent   | [CAMEL](https://github.com/camel-ai/camel)、[GPTeam](https://github.com/101dotxyz/GPTeam)、[AgentVerse](https://github.com/OpenBMB/AgentVerse)、[MetaGPT](https://github.com/geekan/MetaGPT)、[Langroid](https://github.com/langroid/langroid)、[SocraticAI](https://github.com/RunzheYang/SocraticAI) |
 |     Others      | [AutoAgents](https://github.com/AutoLLM/AutoAgents)![img](https://img.shields.io/badge/-Reasoning-blue) 、[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)  ![img](https://img.shields.io/badge/-Code-pink) |
 
@@ -285,6 +285,10 @@ Must-read Papers on Large Language Model Agents.
 - **[BMTools](https://github.com/OpenBMB/BMTools).** Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
   
 - **[ToolBench](https://github.com/OpenBMB/ToolBench).** An open platform for training, serving, and evaluating large language model for tool learning.
+
+- **[AgentGPT](https://github.com/reworkd/AgentGPT).** Assemble, configure, and deploy autonomous AI Agents in your browser.
+
+- **[xlang](https://github.com/xlang-ai/xlang).** An open-source framework for building and evaluating language model agents via executable language grounding
 
 ---
 
