@@ -36,6 +36,7 @@ Must-read Papers on Large Language Model Agents.
       - [Collaborative Exchanges](#collaborative-exchanges-)
       - [Adversarial Interactions ](#adversarial-interactions-)
     - [Casual/Open Conversations](#casualopen-conversations-)
+  - [Application](#-application)
 - [🧰 Resources](#-resources)
   - [Benchmarks](#benchmarks)
   - [Types of Tools](#types-of-tools)
@@ -482,9 +483,11 @@ Must-read Papers on Large Language Model Agents.
 
    *Jiaju Lin, Haoran Zhao, Aochi Zhang, Yiting Wu, Huqiuyue Ping, Qin Chen*. [[abs](https://arxiv.org/abs/2308.04026)], 2023.8
 
+### 🪐 Application
 
+1. **EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education**
 
-
+   *Yuhao Dan, Zhikai Lei, Yiyang Gu, Yong Li, Jianghao Yin, Jiaju Lin, Linhao Ye, Zhiyan Tie, Yougen Zhou, Yilei Wang, Aimin Zhou, Ze Zhou, Qin Chen, Jie Zhou, Liang He, Xipeng Qiu.* [[abs](https://arxiv.org/abs/2308.02773)], 2023.8
 
 ---
 
