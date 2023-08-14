@@ -188,111 +188,115 @@ Must-read Papers on Large Language Model Agents.
 
    *Chan Hee Song, Jiaman Wu, Clayton Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su*. [[abs](https://arxiv.org/abs/2212.04088)], 2022.12
 
-6. **Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling**
+6. **Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments**
+
+   *Yu Gu, Xiang Deng, Yu Su.* [[abs](https://aclanthology.org/2023.acl-long.270.pdf)], 2022.12
+   
+7. **Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling**
 
    *Kolby Nottingham, Prithviraj Ammanabrolu, Alane Suhr, Yejin Choi, Hannaneh Hajishirzi, Sameer Singh, Roy Fox*. [[abs](https://arxiv.org/abs/2301.12050)], 2023.1
 
-7. **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**
+8. **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**
 
    *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang*. [[abs](https://arxiv.org/abs/2302.01560)], 2023.2
 
-8. **PaLM-E: An embodied multimodal language model**
+9. **PaLM-E: An embodied multimodal language model**
 
    *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence.* [[abs](https://arxiv.org/abs/2303.03378)], 2023.3
 
-9. **Reflexion: Language Agents with Verbal Reinforcement Learning**
+10. **Reflexion: Language Agents with Verbal Reinforcement Learning**
 
    *Noah Shinn, Federico Cassano, Beck Labash, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao.* [[abs](https://arxiv.org/abs/2303.11366)], 2023.3
 
-10. **Chat with the Environment: Interactive Multimodal Perception using Large Language Models**
+11. **Chat with the Environment: Interactive Multimodal Perception using Large Language Models**
 
     *Xufeng Zhao, Mengdi Li, Cornelius Weber, Muhammad Burhan Hafez, Stefan Wermter*. [[abs](https://arxiv.org/abs/2303.08268)], 2023.3
 
-11. **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks**
+12. **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks**
 
     *Haoqi Yuan, Chi Zhang, Hongcheng Wang, Feiyang Xie, Penglin Cai, Hao Dong, Zongqing Lu.* [[abs](https://arxiv.org/abs/2303.16563)], 2023.3
 
-12. **Self-Refine: Iterative Refinement with Self-Feedback**
+13. **Self-Refine: Iterative Refinement with Self-Feedback**
 
     *Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank Gupta, Bodhisattwa Prasad Majumder, Katherine Hermann, Sean Welleck, Amir Yazdanbakhsh, Peter Clark.* [[abs](https://arxiv.org/abs/2303.17651)], 2023.3
 
-13. **Teaching Large Language Models to Self-Debug**
+14. **Teaching Large Language Models to Self-Debug**
 
     *Xinyun Chen, Maxwell Lin, Nathanael Schärli, Denny Zhou.* [[abs](https://arxiv.org/abs/2304.05128)], 2023.4
 
-14. **WizardLM: Empowering Large Language Models to Follow Complex Instructions**
+15. **WizardLM: Empowering Large Language Models to Follow Complex Instructions**
 
     *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang.* [[abs](https://arxiv.org/abs/2304.12244)], 2023.4
 
-15. **FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance**
+16. **FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance**
 
     *Lingjiao Chen, Matei Zaharia, James Zou.* [[abs](https://arxiv.org/abs/2305.05176)], 2023.5
 
-16. **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**
+17. **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**
 
     *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan.* [[abs](https://arxiv.org/abs/2305.10601)], 2023.5
 
-17. **Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents**
+18. **Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents**
 
     *Yue Wu, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Yuanzhi Li, Tom Mitchell, Shrimai Prabhumoye*. [[abs](https://arxiv.org/abs/2305.02412)], 2023.5
 
-18. **Knowledge-enhanced Agents for Interactive Text Games**
+19. **Knowledge-enhanced Agents for Interactive Text Games**
 
     *Prateek Chhikara, Jiarui Zhang, Filip Ilievski, Jonathan Francis, Kaixin Ma.* [[abs](https://arxiv.org/abs/2305.05091)], 2023.5 
 
-19. **Voyager: An Open-Ended Embodied Agent with Large Language Models**
+20. **Voyager: An Open-Ended Embodied Agent with Large Language Models**
 
     *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*. [[abs](https://arxiv.org/abs/2305.16291)], 2023.5
 
-20. **SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks**
+21. **SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks**
 
     *Bill Yuchen Lin, Yicheng Fu, Karina Yang, Prithviraj Ammanabrolu, Faeze Brahman, Shiyu Huang, Chandra Bhagavatula, Yejin Choi, Xiang Ren.* [[abs](https://arxiv.org/abs/2305.17390)], 2023.5
 
-21. **Language Models Meet World Models: Embodied Experiences Enhance Language Models**
+22. **Language Models Meet World Models: Embodied Experiences Enhance Language Models**
 
     *Jiannan Xiang, Tianhua Tao, Yi Gu, Tianmin Shu, Zirui Wang, Zichao Yang, Zhiting Hu.* [[abs](https://arxiv.org/abs/2305.10626)], 2023.5
 
-22. **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory**
+23. **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory**
 
     *Xizhou Zhu, Yuntao Chen, Hao Tian, Chenxin Tao, Weijie Su, Chenyu Yang, Gao Huang, Bin Li, Lewei Lu, Xiaogang Wang, Yu Qiao, Zhaoxiang Zhang, Jifeng Dai.* [[abs](https://arxiv.org/abs/2305.17144)], 2023.5
 
-23. **AdaPlanner: Adaptive Planning from Feedback with Language Models**
+24. **AdaPlanner: Adaptive Planning from Feedback with Language Models**
 
     *Haotian Sun, Yuchen Zhuang, Lingkai Kong, Bo Dai, Chao Zhang.* [[abs](https://arxiv.org/abs/2305.16653)], 2023.5 
 
-24. **Reasoning with Language Model is Planning with World Model**
+25. **Reasoning with Language Model is Planning with World Model**
 
     *Shibo Hao, Yi Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu.* [[abs](https://arxiv.org/abs/2305.14992)], 2023.5
 
-25. **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**
+26. **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**
 
     *Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng Lim.* [[abs](https://arxiv.org/abs/2305.04091)], 2023.5
 
-26. **Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach**
+27. **Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach**
 
     *Bin Hu, Chenyang Zhao, Pu Zhang, Zihao Zhou, Yuanhang Yang, Zenglin Xu, Bin Liu.* [[abs](https://arxiv.org/abs/2306.03604)], 2023.6
 
-27. **RecAgent: A Novel Simulation Paradigm for Recommender Systems**
+28. **RecAgent: A Novel Simulation Paradigm for Recommender Systems**
 
     *Lei Wang, Jingsen Zhang, Xu Chen, Yankai Lin, Ruihua Song, Wayne Xin Zhao, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2306.02552)], 2023.6
 
-28. **Towards A Unified Agent with Foundation Models.**
+29. **Towards A Unified Agent with Foundation Models.**
 
     *Norman Di Palo, Arunkumar Byravan, Leonard Hasenclever, Markus Wulfmeier, Nicolas Heess, Martin Riedmiller.* [[abs](https://arxiv.org/abs/2307.09668)], 2023.7
 
-29. **PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback**
+30. **PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback**
 
     *Bo Shen, Jiaxin Zhang, Taihong Chen, Daoguang Zan, Bing Geng, An Fu, Muhan Zeng, Ailun Yu, Jichuan Ji, Jingyang Zhao, Yuenan Guo, Qianxiang Wang.* [[abs](https://arxiv.org/abs/2307.14936)], 2023.7
 
-30. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**
+31. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**
 
     *Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust.* [[abs](https://arxiv.org/abs/2307.12856)], 2023.7
 
-31. **Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization**
+32. **Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization**
 
     *Weiran Yao, Shelby Heinecke, Juan Carlos Niebles, Zhiwei Liu, Yihao Feng, Le Xue, Rithesh Murthy, Zeyuan Chen, Jianguo Zhang, Devansh Arpit, Ran Xu, Phil Mui, Huan Wang, Caiming Xiong, Silvio Savarese.* [[abs](https://arxiv.org/abs/2308.02151)], 2023.8
 
-32. **SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**
+33. **SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**
 
     *Ning Miao, Yee Whye Teh, Tom Rainforth.* [[abs](https://arxiv.org/abs/2308.00436)], 2023.8
 
@@ -511,6 +515,10 @@ Must-read Papers on Large Language Model Agents.
 2. **AgentBench: Evaluating LLMs as Agents**
 
    *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang*. [[abs](https://arxiv.org/abs/2308.03688)], 2023.8
+
+3. **BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents.**
+
+   *Zhiwei Liu, Weiran Yao, Jianguo Zhang, Le Xue, Shelby Heinecke, Rithesh Murthy, Yihao Feng, Zeyuan Chen, Juan Carlos Niebles, Devansh Arpit, Ran Xu, Phil Mui, Huan Wang, Caiming Xiong, Silvio Savarese.* [[abs](https://arxiv.org/abs/2308.05960)], 2023.8
    
 ###  Types of Tools
 
