@@ -86,6 +86,15 @@ Must-read Papers on Large Language Model Agents.
 
    *Jimmy Wu, Rika Antonova, Adam Kan, Marion Lepert, Andy Zeng, Shuran Song, Jeannette Bohg, Szymon Rusinkiewicz, Thomas Funkhouser.* [[abs](https://arxiv.org/abs/2305.05658)], 2023.5
 
+7. **Personality Traits in Large Language Models**
+
+   *Mustafa Safdari, Greg Serapio-García, Clément Crepy, Stephen Fitz, Peter Romero, Luning Sun, Marwa Abdulhai, Aleksandra Faust, Maja Matarić.* [[abs](https://arxiv.org/abs/2307.00184)], 2023.7
+
+8. **Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models**
+
+   *Keyu Pan, Yawen Zeng.* [[abs](https://arxiv.org/abs/2307.16180)], 2023.7
+
+
 #### Memory. 💭💫
 
 1. **CoLT5: Faster Long-Range Transformers with Conditional Computation**
