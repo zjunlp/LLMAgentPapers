@@ -502,6 +502,12 @@ Must-read Papers on Large Language Model Agents.
 
    *Yuhao Dan, Zhikai Lei, Yiyang Gu, Yong Li, Jianghao Yin, Jiaju Lin, Linhao Ye, Zhiyan Tie, Yougen Zhou, Yilei Wang, Aimin Zhou, Ze Zhou, Qin Chen, Jie Zhou, Liang He, Xipeng Qiu.* [[abs](https://arxiv.org/abs/2308.02773)], 2023.8
 
+### 🔖 Others
+
+1. **Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges**
+
+   Sivan Schwartz, Avi Yaeli, Segev Shlomov.* [[abs](https://arxiv.org/abs/2308.05391)], 2023.8
+   
 ---
 
 ## 🧰 Resources
