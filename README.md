@@ -456,7 +456,7 @@ Must-read Papers on Large Language Model Agents.
 
 21. **InterAct: Exploring the Potentials of ChatGPT as a Cooperative Agent**
 
-    *Po-Lin Chen, Cheng-Shang Chang.* [[abs](https://arxiv.org/abs/2308.01552)]
+    *Po-Lin Chen, Cheng-Shang Chang.* [[abs](https://arxiv.org/abs/2308.01552)], 2023.8
 
 22. **LLM As DBA**
 
