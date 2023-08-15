@@ -359,9 +359,14 @@ Must-read Papers on Large Language Model Agents.
 
     *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun.* [[abs](https://arxiv.org/abs/2307.16789)], 2023.7
 
-15. **Gentopia: A Collaborative Platform for Tool-Augmented LLMs**
+15. **GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution**
+
+    *Yining Lu, Haoping Yu, Daniel Khashabi.* [[abs](https://arxiv.org/abs/2307.08775)], 2023.7  
+
+16. **Gentopia: A Collaborative Platform for Tool-Augmented LLMs**
 
     *Binfeng Xu, Xukun Liu, Hua Shen, Zeyu Han, Yuhan Li, Murong Yue, Zhiyuan Peng, Yuchen Liu, Ziyu Yao, Dongkuan Xu.* [[abs](https://arxiv.org/abs/2308.04030)], 2023.8
+
 
 ### 🤖💬🤖 Multiple Agents
 
