@@ -458,6 +458,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Po-Lin Chen, Cheng-Shang Chang.* [[abs](https://arxiv.org/abs/2308.01552)], 2023.8
 
+22. **LLM As DBA**
+
+    *Xuanhe Zhou, Guoliang Li, Zhiyuan Liu.* [[abs](https://arxiv.org/abs/2308.05481)], 2023.8
+
 ##### Adversarial Interactions 👨🏻‍🦳🗣
 
 1. **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**
