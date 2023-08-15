@@ -476,6 +476,10 @@ Must-read Papers on Large Language Model Agents.
 
    *Yao Fu, Hao Peng, Tushar Khot, Mirella Lapata.* [[abs](https://arxiv.org/abs/2305.10142)], 2023.5
 
+4. **ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate**
+
+   *Chi-Min Chan, Weize Chen, Yusheng Su, Jianxuan Yu, Wei Xue, Shanghang Zhang, Jie Fu, Zhiyuan Liu.* [[abs](https://arxiv.org/abs/2308.07201)], 2023.8
+
 ---
 
 #### Casual/Open Conversations 👥💬
