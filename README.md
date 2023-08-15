@@ -502,6 +502,10 @@ Must-read Papers on Large Language Model Agents.
 
    *Yuhao Dan, Zhikai Lei, Yiyang Gu, Yong Li, Jianghao Yin, Jiaju Lin, Linhao Ye, Zhiyan Tie, Yougen Zhou, Yilei Wang, Aimin Zhou, Ze Zhou, Qin Chen, Jie Zhou, Liang He, Xipeng Qiu.* [[abs](https://arxiv.org/abs/2308.02773)], 2023.8
 
+2. **SuperAgent: A Customer Service Chatbot for E-commerce Websites**
+
+   *Lei Cui, Shaohan Huang, Furu Wei, Chuanqi Tan, Chaoqun Duan, Ming Zhou.* [[paper](https://aclanthology.org/P17-4017/)], 2017
+
 ### 🔖 Others
 
 1. **Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges**
