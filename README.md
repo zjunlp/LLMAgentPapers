@@ -190,7 +190,7 @@ Must-read Papers on Large Language Model Agents.
 
 6. **Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments**
 
-   *Yu Gu, Xiang Deng, Yu Su.* [[abs](https://aclanthology.org/2023.acl-long.270.pdf)], 2022.12
+   *Yu Gu, Xiang Deng, Yu Su.* [[abs](https://arxiv.org/abs/2212.09736)], 2022.12
    
 7. **Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling**
 
