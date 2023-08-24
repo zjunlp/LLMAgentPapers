@@ -55,6 +55,9 @@ Must-read Papers on Large Language Model Agents.
 
    Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu. [[abs]](https://arxiv.org/abs/2305.13246), 2023.5
 
+2. **A Survey on Large Language Model based Autonomous Agents**
+
+   *Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2308.11432)], 2023.8
 
 ---
 
@@ -466,6 +469,18 @@ Must-read Papers on Large Language Model Agents.
 
     *Edward Junprung.* [[abs](https://arxiv.org/abs/2308.07411)], 2023.8
 
+24. **Neural Amortized Inference for Nested Multi-agent Reasoning**
+
+    *Kunal Jha, Tuan Anh Le, Chuanyang Jin, Yen-Ling Kuo, Joshua B. Tenenbaum, Tianmin Shu.* [[abs](https://arxiv.org/abs/2308.11071)], 2023.8
+
+25. **GPT-in-the-Loop: Adaptive Decision-Making for Multiagent Systems**
+
+    *Nathalia Nascimento, Paulo Alencar, Donald Cowan.* [[abs](https://arxiv.org/abs/2308.10435)], 2023.8
+
+26. **ProAgent: Building Proactive Cooperative AI with Large Language Models**
+
+    *Ceyao Zhang, Kaijie Yang, Siyi Hu, Zihao Wang, Guanghe Li, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang.* [[abs](https://arxiv.org/abs/2308.11339)], 2023.8
+    
 ##### Adversarial Interactions 👨🏻‍🦳🗣
 
 1. **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**
@@ -484,6 +499,10 @@ Must-read Papers on Large Language Model Agents.
 
    *Chi-Min Chan, Weize Chen, Yusheng Su, Jianxuan Yu, Wei Xue, Shanghang Zhang, Jie Fu, Zhiyuan Liu.* [[abs](https://arxiv.org/abs/2308.07201)], 2023.8
 
+5. **How susceptible are LLMs to Logical Fallacies?**
+
+   *Amirreza Payandeh, Dan Pluth, Jordan Hosier, Xuesu Xiao, Vijay K. Gurbani.* [[abs](https://arxiv.org/abs/2308.09853)], 2023.8
+
 ---
 
 #### Casual/Open Conversations 👥💬
@@ -496,15 +515,19 @@ Must-read Papers on Large Language Model Agents.
 
    *Ruibo Liu, Ruixin Yang, Chenyan Jia, Ge Zhang, Denny Zhou, Andrew M. Dai, Diyi Yang, Soroush Vosoughi.* [[abs](https://arxiv.org/abs/2305.16960)], 2023.5
 
-3. **Epidemic Modeling with Generative Agents.**
+3. **The Role of Summarization in Generative Agents: A Preliminary Perspective**
+
+   *Xiachong Feng, Xiaocheng Feng, Bing Qin.* [[abs](https://arxiv.org/abs/2305.01253)], 2023.5
+
+4. **Epidemic Modeling with Generative Agents.**
 
    *Ross Williams, Niyousha Hosseinichimeh, Aritra Majumdar, Navid Ghaffarzadegan.* [[abs](https://arxiv.org/abs/2307.04986)], 2023.7
 
-4. **S^3: Social-network Simulation System with Large Language Model-Empowered Agents**
+5. **S^3: Social-network Simulation System with Large Language Model-Empowered Agents**
 
    *Chen Gao, Xiaochong Lan, Zhihong Lu, Jinzhu Mao, Jinghua Piao, Huandong Wang, Depeng Jin, Yong Li.* [[abs](https://arxiv.org/abs/2307.14984)],2023.7
 
-5. **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation**
+6. **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation**
 
    *Jiaju Lin, Haoran Zhao, Aochi Zhang, Yiting Wu, Huqiuyue Ping, Qin Chen*. [[abs](https://arxiv.org/abs/2308.04026)], 2023.8
 
@@ -529,6 +552,10 @@ Must-read Papers on Large Language Model Agents.
 5. **RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking**
 
    *Homanga Bharadhwaj, Jay Vakil, Mohit Sharma, Abhinav Gupta, Shubham Tulsiani, Vikash Kumar.* [[paper](https://robopen.github.io/media/roboagent.pdf)], 2023
+
+6.  **Is There Any Social Principle for LLM-Based Agents?**
+
+    *Jitao Bai, Simiao Zhang, Zhonghao Chen.* [[abs](https://arxiv.org/abs/2308.11136)], 2023.8
 
 ### 🔖 Others
 
