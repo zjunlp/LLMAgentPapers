@@ -531,6 +531,10 @@ Must-read Papers on Large Language Model Agents.
 
    *Jiaju Lin, Haoran Zhao, Aochi Zhang, Yiting Wu, Huqiuyue Ping, Qin Chen*. [[abs](https://arxiv.org/abs/2308.04026)], 2023.8
 
+7. **CGMI: Configurable General Multi-Agent Interaction Framework**
+
+   *Shi Jinxin, Zhao Jiabao, Wang Yilei, Wu Xingjiao, Li Jiawen, He Liang.* [[abs](https://arxiv.org/abs/2308.12503)], 2023.8
+
 ### 🪐 Application
 
 1. **EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education**
