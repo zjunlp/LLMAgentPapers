@@ -633,6 +633,9 @@ Must-read Papers on Large Language Model Agents.
 
 - **[xlang](https://github.com/xlang-ai/xlang).** An open-source framework for building and evaluating language model agents via executable language grounding
 
+- **[Agently](https://github.com/Maplemx/Agently).**  A fast way to build LLM Agent based Application 🤵 A light weight framework helps developers to create amazing LLM based applications. 
+
+
 ---
 
 ## 🎉 Contribution
