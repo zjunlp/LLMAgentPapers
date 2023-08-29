@@ -303,6 +303,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Ning Miao, Yee Whye Teh, Tom Rainforth.* [[abs](https://arxiv.org/abs/2308.00436)], 2023.8
 
+35. **ExpeL: LLM Agents Are Experiential Learners**
+
+    *Andrew Zhao, Daniel Huang, Quentin Xu, Matthieu Lin, Yong-Jin Liu, Gao Huang.* [[abs](https://arxiv.org/abs/2308.10144)], 2023.8
+
 
 #### Tool use. 👩‍🔧🔧
 
