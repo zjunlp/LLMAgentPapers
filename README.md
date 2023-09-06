@@ -583,7 +583,7 @@ Must-read Papers on Large Language Model Agents.
 
 1. **Mind2Web: Towards a Generalist Agent for the Web**
 
-   *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su.* [abs](https://arxiv.org/abs/2306.06070)], 2023.6
+   *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su.* [[abs](https://arxiv.org/abs/2306.06070)], 2023.6
 
 3. **The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions**
     
