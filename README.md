@@ -307,6 +307,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Andrew Zhao, Daniel Huang, Quentin Xu, Matthieu Lin, Yong-Jin Liu, Gao Huang.* [[abs](https://arxiv.org/abs/2308.10144)], 2023.8
 
+36. **Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning**
+
+    *Shaohui Peng, Xing Hu, Qi Yi, Rui Zhang, Jiaming Guo, Di Huang, Zikang Tian, Ruizhi Chen, Zidong Du, Qi Guo, Yunji Chen, Ling Li.* [[abs](https://arxiv.org/abs/2309.01352)], 2023.9
+    
 
 #### Tool use. 👩‍🔧🔧
 
