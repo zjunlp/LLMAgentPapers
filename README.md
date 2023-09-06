@@ -581,17 +581,21 @@ Must-read Papers on Large Language Model Agents.
 
 ### Benchmarks
 
-1. **The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions**
+1. **Mind2Web: Towards a Generalist Agent for the Web**
+     *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su.* [abs](https://arxiv.org/abs/2306.06070)], 2023.6
+
+2. **The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions**
     
     *Yujia Peng , Jiaheng Han, Zhenliang Zhang , Lifeng Fan , Tengyu Liu, Siyuan Qi, Xue Feng, Yuxi Ma, Yizhou Wang, Song-Chun Zhu.* [[abs](https://www.sciencedirect.com/science/article/pii/S209580992300293X)], 2023.7
    
-2. **AgentBench: Evaluating LLMs as Agents**
+3. **AgentBench: Evaluating LLMs as Agents**
 
    *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang*. [[abs](https://arxiv.org/abs/2308.03688)], 2023.8
 
-3. **BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents.**
+4. **BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents.**
 
    *Zhiwei Liu, Weiran Yao, Jianguo Zhang, Le Xue, Shelby Heinecke, Rithesh Murthy, Yihao Feng, Zeyuan Chen, Juan Carlos Niebles, Devansh Arpit, Ran Xu, Phil Mui, Huan Wang, Caiming Xiong, Silvio Savarese.* [[abs](https://arxiv.org/abs/2308.05960)], 2023.8
+
    
 ###  Types of Tools
 
