@@ -53,7 +53,7 @@ Must-read Papers on Large Language Model Agents.
 
 1. **Interactive Natural Language Processing**
 
-   Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu. [[abs]](https://arxiv.org/abs/2305.13246), 2023.5
+   *Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu.* [[abs]](https://arxiv.org/abs/2305.13246), 2023.5
 
 2. **A Survey on Large Language Model based Autonomous Agents**
 
@@ -167,6 +167,10 @@ Must-read Papers on Large Language Model Agents.
 17. **ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory**
 
     *Chenxu Hu, Jie Fu, Chenzhuang Du, Simian Luo, Junbo Zhao, Hang Zhao.* [[abs](https://arxiv.org/abs/2306.03901)], 2023.6
+
+18. **Cognitive Architectures for Language Agents**
+
+    *Theodore Sumers, Shunyu Yao, Karthik Narasimhan, Thomas L. Griffiths* [[abs](https://arxiv.org/abs/2309.02427)], 2023.9
 
 
 #### Planning. 🧩♟️
