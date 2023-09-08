@@ -97,7 +97,15 @@ Must-read Papers on Large Language Model Agents.
 
    *Keyu Pan, Yawen Zeng.* [[abs](https://arxiv.org/abs/2307.16180)], 2023.7
 
+9. **Consciousness in Artificial Intelligence: Insights from the Science of Consciousness**
 
+   *Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji, Ryota Kanai, Colin Klein, Grace Lindsay, Matthias Michel, Liad Mudrik, Megan A. K. Peters, Eric Schwitzgebel, Jonathan Simon, Rufin VanRullen.* [[abs](https://arxiv.org/abs/2308.08708)], 2023.8
+
+10. **Taken out of context: On measuring situational awareness in LLMs**
+
+    *Lukas Berglund, Asa Cooper Stickland, Mikita Balesni, Max Kaufmann, Meg Tong, Tomasz Korbak, Daniel Kokotajlo, Owain Evans.* [[abs](https://arxiv.org/abs/2309.00667)], 2023.9
+    
+    
 #### Memory. 💭💫
 
 1. **CoLT5: Faster Long-Range Transformers with Conditional Computation**
