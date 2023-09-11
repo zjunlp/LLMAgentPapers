@@ -660,7 +660,8 @@ Must-read Papers on Large Language Model Agents.
 
 - **[Agently](https://github.com/Maplemx/Agently).**  A fast way to build LLM Agent based Application 🤵 A light weight framework helps developers to create amazing LLM based applications. 
 
-
+- **[Lagent](https://github.com/InternLM/lagent).** A lightweight framework for building LLM-based agents.
+  
 ---
 
 ## 🎉 Contribution
