@@ -502,7 +502,9 @@ Must-read Papers on Large Language Model Agents.
 
     *Ceyao Zhang, Kaijie Yang, Siyi Hu, Zihao Wang, Guanghe Li, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang.* [[abs](https://arxiv.org/abs/2308.11339)], 2023.8
 
+27. **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**
 
+    *Jintian Zhang, Xin Xu, Shumin Deng.* [[abs](https://arxiv.org/abs/2310.02124)], 2023.10
 
 ##### Adversarial Interactions 👨🏻‍🦳🗣
 
