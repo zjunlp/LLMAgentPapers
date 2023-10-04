@@ -37,6 +37,7 @@ Must-read Papers on Large Language Model Agents.
       - [Adversarial Interactions ](#adversarial-interactions-)
     - [Casual/Open Conversations](#casualopen-conversations-)
   - [Application](#-application)
+  - [Framework](#-framework)
 - [🧰 Resources](#-resources)
   - [Benchmarks](#benchmarks)
   - [Types of Tools](#types-of-tools)
@@ -581,6 +582,12 @@ Must-read Papers on Large Language Model Agents.
 
     *Jitao Bai, Simiao Zhang, Zhonghao Chen.* [[abs](https://arxiv.org/abs/2308.11136)], 2023.8
 
+### 🖼️ Framework
+
+1. **Agents: An Open-source Framework for Autonomous Language Agents**
+
+   *Wangchunshu Zhou, Yuchen Eleanor Jiang, Long Li, Jialong Wu, Tiannan Wang, Shi Qiu, Jintian Zhang, Jing Chen, Ruipu Wu, Shuai Wang, Shiding Zhu, Jiyu Chen, Wentao Zhang, Ningyu Zhang, Huajun Chen, Peng Cui, Mrinmaya Sachan.* [[abs](https://arxiv.org/abs/2309.07870)], 2023.9
+   
 ### 🔖 Others
 
 1. **Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges**
