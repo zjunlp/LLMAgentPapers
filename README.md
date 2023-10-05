@@ -595,6 +595,10 @@ Must-read Papers on Large Language Model Agents.
 1. **Agents: An Open-source Framework for Autonomous Language Agents**
 
    *Wangchunshu Zhou, Yuchen Eleanor Jiang, Long Li, Jialong Wu, Tiannan Wang, Shi Qiu, Jintian Zhang, Jing Chen, Ruipu Wu, Shuai Wang, Shiding Zhu, Jiyu Chen, Wentao Zhang, Ningyu Zhang, Huajun Chen, Peng Cui, Mrinmaya Sachan.* [[abs](https://arxiv.org/abs/2309.07870)], 2023.9
+
+2. **Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization**
+
+   *Zijun Liu, Yanzhe Zhang, Peng Li, Yang Liu, Diyi Yang.* [[abs](https://arxiv.org/abs/2310.02170)], 20203.10
    
 ### 🔖 Others
 
