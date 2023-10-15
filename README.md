@@ -24,25 +24,31 @@ Must-read Papers on Large Language Model Agents.
 
 ## 📜Content
 
-- [🌄 Papers](#-papers)
-  - [Overview](#overview)
-  - [Agent](#-agent)
-    - [Personality](#personality-)
-    - [Memory](#memory-)
-    - [Planning](#planning-)
-    - [Tool-use](#tool-use-)
-  - [Multiple Agents](#-multiple-agents)
-    - [Task-Oriented Communication](#task-oriented-communication)
-      - [Collaborative Exchanges](#collaborative-exchanges-)
-      - [Adversarial Interactions ](#adversarial-interactions-)
-    - [Casual/Open Conversations](#casualopen-conversations-)
-  - [Application](#-application)
-  - [Framework](#-framework)
-- [🧰 Resources](#-resources)
-  - [Benchmarks](#benchmarks)
-  - [Types of Tools](#types-of-tools)
-  - [Tool List](#-tool-list)
-- [🎉 Contribution](#-contribution)
+- [LLM Agents Papers](#llm-agents-papers)
+  - [🔔 News](#-news)
+  - [📜Content](#content)
+  - [🌄 Papers](#-papers)
+    - [Overview](#overview)
+    - [🤖 Agent](#-agent)
+      - [Personality. 🧛🧙](#personality-)
+      - [Memory. 💭💫](#memory-)
+      - [Planning. 🧩♟️](#planning-️)
+      - [Tool use. 👩‍🔧🔧](#tool-use-)
+    - [🤖💬🤖 Multiple Agents](#-multiple-agents)
+      - [Task-Oriented Communication](#task-oriented-communication)
+        - [Collaborative Exchanges 👨‍💻👩‍💻](#collaborative-exchanges-)
+        - [Adversarial Interactions 👨🏻‍🦳🗣](#adversarial-interactions-)
+      - [Casual/Open Conversations 👥💬](#casualopen-conversations-)
+    - [🪐 Application](#-application)
+    - [🖼️ Framework](#️-framework)
+    - [🔖 Others](#-others)
+  - [🧰 Resources](#-resources)
+    - [Benchmarks](#benchmarks)
+    - [Types of Tools](#types-of-tools)
+    - [📜 Tool List](#-tool-list)
+  - [🎉 Contribution](#-contribution)
+    - [Contributing to this paper list](#contributing-to-this-paper-list)
+    - [Contributors](#contributors)
 
 
 
@@ -371,27 +377,31 @@ Must-read Papers on Large Language Model Agents.
 
     *Aaron Parisi, Yao Zhao, Noah Fiedel.* [[abs](https://arxiv.org/abs/2205.12255)], 2022.5
 
-11. **Making Language Models Better Tool Learners with Execution Feedback**
+11. **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**
+
+    *Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen.*  [[abs](https://arxiv.org/pdf/2305.11738.pdf)] [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)], 2023.5
+
+12. **Making Language Models Better Tool Learners with Execution Feedback**
 
     *Shuofei Qiao, Honghao Gui, Huajun Chen, Ningyu Zhang.* [[abs](https://arxiv.org/abs/2305.13068)],2023.5
 
-12. **ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**
+13. **ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**
 
     *Zhipeng Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2305.14323)], 2023.5
 
-13. **Gorilla: Large Language Model Connected with Massive APIs**
+14. **Gorilla: Large Language Model Connected with Massive APIs**
 
     *Shishir G. Patil, Tianjun Zhang, Xin Wang, Joseph E. Gonzalez.* [[abs](https://arxiv.org/abs/2305.15334)], 2023.5
 
-14. **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**
+15. **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**
 
     *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun.* [[abs](https://arxiv.org/abs/2307.16789)], 2023.7
 
-15. **GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution**
+16. **GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution**
 
     *Yining Lu, Haoping Yu, Daniel Khashabi.* [[abs](https://arxiv.org/abs/2307.08775)], 2023.7  
 
-16. **Gentopia: A Collaborative Platform for Tool-Augmented LLMs**
+17. **Gentopia: A Collaborative Platform for Tool-Augmented LLMs**
 
     *Binfeng Xu, Xukun Liu, Hua Shen, Zeyu Han, Yuhan Li, Murong Yue, Zhiyuan Peng, Yuchen Liu, Ziyu Yao, Dongkuan Xu.* [[abs](https://arxiv.org/abs/2308.04030)], 2023.8
 
@@ -594,6 +604,11 @@ Must-read Papers on Large Language Model Agents.
 
     *Jitao Bai, Simiao Zhang, Zhonghao Chen.* [[abs](https://arxiv.org/abs/2308.11136)], 2023.8
 
+7. **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**
+
+    *Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen.* [[abs](https://arxiv.org/abs/2309.17452)] [[code](https://github.com/microsoft/ToRA)], 2023.9
+
+
 ### 🖼️ Framework
 
 1. **Agents: An Open-source Framework for Autonomous Language Agents**
@@ -602,7 +617,7 @@ Must-read Papers on Large Language Model Agents.
 
 2. **Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization**
 
-   *Zijun Liu, Yanzhe Zhang, Peng Li, Yang Liu, Diyi Yang.* [[abs](https://arxiv.org/abs/2310.02170)], 20203.10
+   *Zijun Liu, Yanzhe Zhang, Peng Li, Yang Liu, Diyi Yang.* [[abs](https://arxiv.org/abs/2310.02170)], 2023.10
    
 ### 🔖 Others
 
