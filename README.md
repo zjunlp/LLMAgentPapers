@@ -405,6 +405,9 @@ Must-read Papers on Large Language Model Agents.
 
     *Binfeng Xu, Xukun Liu, Hua Shen, Zeyu Han, Yuhan Li, Murong Yue, Zhiyuan Peng, Yuchen Liu, Ziyu Yao, Dongkuan Xu.* [[abs](https://arxiv.org/abs/2308.04030)], 2023.8
 
+18. **Identifying the Risks of LM Agents with an LM-Emulated Sandbox**
+
+    *Yangjun Ruan, Honghua Dong, Andrew Wang, Silviu Pitis, Yongchao Zhou, Jimmy Ba, Yann Dubois, Chris J. Maddison, Tatsunori Hashimoto.* [[abs](https://arxiv.org/abs/2309.15817)], 2023.9
 
 ### 🤖💬🤖 Multiple Agents
 
@@ -542,9 +545,13 @@ Must-read Papers on Large Language Model Agents.
 
    *Amirreza Payandeh, Dan Pluth, Jordan Hosier, Xuesu Xiao, Vijay K. Gurbani.* [[abs](https://arxiv.org/abs/2308.09853)], 2023.8
 
-6. **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**
+6. **Identifying the Risks of LM Agents with an LM-Emulated Sandbox**
 
-    *Jintian Zhang, Xin Xu, Shumin Deng.* [[abs](https://arxiv.org/abs/2310.02124)], 2023.10
+   *Yangjun Ruan, Honghua Dong, Andrew Wang, Silviu Pitis, Yongchao Zhou, Jimmy Ba, Yann Dubois, Chris J. Maddison, Tatsunori Hashimoto.* [[abs](https://arxiv.org/abs/2309.15817)], 2023.9
+
+7. **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**
+
+   *Jintian Zhang, Xin Xu, Shumin Deng.* [[abs](https://arxiv.org/abs/2310.02124)], 2023.10
    
 ---
 
@@ -647,7 +654,10 @@ Must-read Papers on Large Language Model Agents.
 
    *Zhiwei Liu, Weiran Yao, Jianguo Zhang, Le Xue, Shelby Heinecke, Rithesh Murthy, Yihao Feng, Zeyuan Chen, Juan Carlos Niebles, Devansh Arpit, Ran Xu, Phil Mui, Huan Wang, Caiming Xiong, Silvio Savarese.* [[abs](https://arxiv.org/abs/2308.05960)], 2023.8
 
-   
+6. **Identifying the Risks of LM Agents with an LM-Emulated Sandbox**
+
+   *Yangjun Ruan, Honghua Dong, Andrew Wang, Silviu Pitis, Yongchao Zhou, Jimmy Ba, Yann Dubois, Chris J. Maddison, Tatsunori Hashimoto.* [[abs](https://arxiv.org/abs/2309.15817)], 2023.9
+
 ###  Types of Tools
 
 |      Types      | Tools                                                        |
@@ -700,6 +710,8 @@ Must-read Papers on Large Language Model Agents.
 
 - **[Lagent](https://github.com/InternLM/lagent).** A lightweight framework for building LLM-based agents.
   
+- **[ToolEmu](https://github.com/ryoungj/ToolEmu)** An LLM-based emulation framework for testing and identifying the risks of LLM-based agents
+
 ---
 
 ## 🎉 Contribution
