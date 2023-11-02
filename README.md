@@ -523,6 +523,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Jintian Zhang, Xin Xu, Shumin Deng.* [[abs](https://arxiv.org/abs/2310.02124)], 2023.10
 
+28. **Learning to Coordinate with Anyone** 
+
+    *Lei Yuan, Lihe Li, Ziqian Zhang, Feng Chen, Tianyi Zhang, Cong Guan, Yang Yu, Zhi-Hua Zhou.*[[abs](https://arxiv.org/abs/2309.12633)], 2023.9
+
 ##### Adversarial Interactions 👨🏻‍🦳🗣
 
 1. **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate**
