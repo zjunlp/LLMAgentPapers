@@ -409,6 +409,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Yangjun Ruan, Honghua Dong, Andrew Wang, Silviu Pitis, Yongchao Zhou, Jimmy Ba, Yann Dubois, Chris J. Maddison, Tatsunori Hashimoto.* [[abs](https://arxiv.org/abs/2309.15817)], 2023.9
 
+19. **Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning**
+
+    *Lin Guan, Karthik Valmeekam, Sarath Sreedharan, Subbarao Kambhampati* [[abs](https://arxiv.org/abs/2305.14909)], 2023.5
+
 ### 🤖💬🤖 Multiple Agents
 
 #### Task-Oriented Communication
