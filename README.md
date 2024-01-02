@@ -334,7 +334,14 @@ Must-read Papers on Large Language Model Agents.
 
     *Shaohui Peng, Xing Hu, Qi Yi, Rui Zhang, Jiaming Guo, Di Huang, Zikang Tian, Ruizhi Chen, Zidong Du, Qi Guo, Yunji Chen, Ling Li.* [[abs](https://arxiv.org/abs/2309.01352)], 2023.9
     
+37. **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator**
 
+    *Chengshu Li, Jacky Liang, Andy Zeng, Xinyun Chen, Karol Hausman, Dorsa Sadigh, Sergey Levine, Li Fei-Fei, Fei Xia, Brian Ichter.* [[abs](https://arxiv.org/abs/2312.04474)], 2023.12
+
+38. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
+
+    *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan, Manzil Zaheer, Felix Yu, Sanjiv Kumar.* [[abs](https://arxiv.org/abs/2312.10003)], 2023.12
+    
 #### Tool use. 👩‍🔧🔧
 
 1. **WebGPT: Browser-assisted question-answering with human feedback**
