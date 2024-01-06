@@ -70,6 +70,10 @@ Must-read Papers on Large Language Model Agents.
 
    *Zhiheng Xi, Wenxiang Chen, Xin Guo, Wei He, Yiwen Ding, Boyang Hong, Ming Zhang, Junzhe Wang, Senjie Jin, Enyu Zhou, Rui Zheng, Xiaoran Fan, Xiao Wang, Limao Xiong, Yuhao Zhou, Weiran Wang, Changhao Jiang, Yicheng Zou, Xiangyang Liu, Zhangyue Yin, Shihan Dou, Rongxiang Weng, Wensen Cheng, Qi Zhang, Wenjuan Qin, Yongyan Zheng, Xipeng Qiu, Xuanjing Huang, Tao Gui.* [[abs](https://arxiv.org/abs/2309.07864)], 2023.9
 
+4. **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents**
+
+    *Ke Yang, Jiateng Liu, John Wu, Chaoqi Yang, Yi R. Fung, Sha Li, Zixuan Huang, Xu Cao, Xingyao Wang, Yiquan Wang, Heng Ji, Chengxiang Zhai.* [[abs](https://arxiv.org/abs/2401.00812)], 2024.1
+   
 ---
 
 ### 🤖 Agent
@@ -341,6 +345,8 @@ Must-read Papers on Large Language Model Agents.
 38. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
 
     *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan, Manzil Zaheer, Felix Yu, Sanjiv Kumar.* [[abs](https://arxiv.org/abs/2312.10003)], 2023.12
+
+
     
 #### Tool use. 👩‍🔧🔧
 
