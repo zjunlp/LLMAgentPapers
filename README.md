@@ -348,7 +348,7 @@ Must-read Papers on Large Language Model Agents.
 
 39.**Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**
 
-   *Wenqi Zhang, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu.* [[abs](https://arxiv.org/abs/2401.02009)],2024,0104
+   *Wenqi Zhang, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu.* [[abs](https://arxiv.org/abs/2401.02009)], 2024.0104
 
 
     
