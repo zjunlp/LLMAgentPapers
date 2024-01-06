@@ -346,6 +346,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan, Manzil Zaheer, Felix Yu, Sanjiv Kumar.* [[abs](https://arxiv.org/abs/2312.10003)], 2023.12
 
+39.**Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**
+
+   *Wenqi Zhang, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu.* [[abs](https://arxiv.org/abs/2401.02009)],2024,0104
+
 
     
 #### Tool use. 👩‍🔧🔧
@@ -425,6 +429,10 @@ Must-read Papers on Large Language Model Agents.
 19. **Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning**
 
     *Lin Guan, Karthik Valmeekam, Sarath Sreedharan, Subbarao Kambhampati* [[abs](https://arxiv.org/abs/2305.14909)], 2023.5
+
+20. **Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow**
+
+    *Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang* [[abs](https://arxiv.org/abs/2306.07209)], 2023.6
 
 ### 🤖💬🤖 Multiple Agents
 
