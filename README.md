@@ -73,6 +73,10 @@ Must-read Papers on Large Language Model Agents.
 4. **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents**
 
     *Ke Yang, Jiateng Liu, John Wu, Chaoqi Yang, Yi R. Fung, Sha Li, Zixuan Huang, Xu Cao, Xingyao Wang, Yiquan Wang, Heng Ji, Chengxiang Zhai.* [[abs](https://arxiv.org/abs/2401.00812)], 2024.1
+
+5. **Agent AI: Surveying the Horizons of Multimodal Interaction**
+
+   *Zane Durante, Qiuyuan Huang, Naoki Wake, Ran Gong, Jae Sung Park, Bidipta Sarkar, Rohan Taori, Yusuke Noda, Demetri Terzopoulos, Yejin Choi, Katsushi Ikeuchi, Hoi Vo, Li Fei-Fei, Jianfeng Gao.* [[abs](https://arxiv.org/pdf/2401.03568.pdf)], 2024.1
    
 ---
 
