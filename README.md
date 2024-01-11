@@ -227,7 +227,7 @@ Must-read Papers on Large Language Model Agents.
 6. **Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments**
 
    *Yu Gu, Xiang Deng, Yu Su.* [[abs](https://arxiv.org/abs/2212.09736)], 2022.12
-   
+
 7. **Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling**
 
    *Kolby Nottingham, Prithviraj Ammanabrolu, Alane Suhr, Yejin Choi, Hannaneh Hajishirzi, Sameer Singh, Roy Fox*. [[abs](https://arxiv.org/abs/2301.12050)], 2023.1
@@ -343,7 +343,7 @@ Must-read Papers on Large Language Model Agents.
 35. **Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning**
 
     *Shaohui Peng, Xing Hu, Qi Yi, Rui Zhang, Jiaming Guo, Di Huang, Zikang Tian, Ruizhi Chen, Zidong Du, Qi Guo, Yunji Chen, Ling Li.* [[abs](https://arxiv.org/abs/2309.01352)], 2023.9
-    
+
 36. **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator**
 
     *Chengshu Li, Jacky Liang, Andy Zeng, Xinyun Chen, Karol Hausman, Dorsa Sadigh, Sergey Levine, Li Fei-Fei, Fei Xia, Brian Ichter.* [[abs](https://arxiv.org/abs/2312.04474)], 2023.12
@@ -354,10 +354,14 @@ Must-read Papers on Large Language Model Agents.
 
 38. **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**
 
-    *Wenqi Zhang, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu.* [[abs](https://arxiv.org/abs/2401.02009)], 2024.0104
+    *Wenqi Zhang, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu.* [[abs](https://arxiv.org/abs/2401.02009)], 2024.01
+
+39. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
+
+    *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen.* [[abs](https://arxiv.org/abs/2401.05268)], 2024.01
 
 
-    
+​    
 #### Tool use. 👩‍🔧🔧
 
 1. **WebGPT: Browser-assisted question-answering with human feedback**
@@ -534,7 +538,7 @@ Must-read Papers on Large Language Model Agents.
 21. **InterAct: Exploring the Potentials of ChatGPT as a Cooperative Agent**
 
     *Po-Lin Chen, Cheng-Shang Chang.* [[abs](https://arxiv.org/abs/2308.01552)], 2023.8
-    
+
 22. **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework**
 
     *Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang.* [[abs](https://arxiv.org/abs/2308.08155)], 2023.8
@@ -558,6 +562,11 @@ Must-read Papers on Large Language Model Agents.
 27. **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**
 
     *Jintian Zhang, Xin Xu, Shumin Deng.* [[abs](https://arxiv.org/abs/2310.02124)], 2023.10
+
+28. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
+
+    *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen.* [[abs](https://arxiv.org/abs/2401.05268)], 2024.01
+
 
 ##### Adversarial Interactions 👨🏻‍🦳🗣
 
@@ -661,7 +670,11 @@ Must-read Papers on Large Language Model Agents.
 2. **Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization**
 
    *Zijun Liu, Yanzhe Zhang, Peng Li, Yang Liu, Diyi Yang.* [[abs](https://arxiv.org/abs/2310.02170)], 2023.10
-   
+
+3. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
+
+   *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen.* [[abs](https://arxiv.org/abs/2401.05268)], 2024.01
+
 ### 🔖 Others
 
 1. **Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges**
@@ -679,7 +692,7 @@ Must-read Papers on Large Language Model Agents.
    *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su.* [[abs](https://arxiv.org/abs/2306.06070)], 2023.6
 
 3. **The Tong Test: Evaluating Artificial General Intelligence Through Dynamic Embodied Physical and Social Interactions**
-    
+   
     *Yujia Peng , Jiaheng Han, Zhenliang Zhang , Lifeng Fan , Tengyu Liu, Siyuan Qi, Xue Feng, Yuxi Ma, Yizhou Wang, Song-Chun Zhu.* [[abs](https://www.sciencedirect.com/science/article/pii/S209580992300293X)], 2023.7
    
 4. **AgentBench: Evaluating LLMs as Agents**
