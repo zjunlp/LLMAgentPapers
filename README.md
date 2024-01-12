@@ -561,9 +561,15 @@ Must-read Papers on Large Language Model Agents.
 
     *Jintian Zhang, Xin Xu, Shumin Deng.* [[abs](https://arxiv.org/abs/2310.02124)], 2023.10
 
-28. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
+28. **Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs**
+
+    *Da Yin, Faeze Brahman, Abhilasha Ravichander, Khyathi Chandu, Kai-Wei Chang, Yejin Choi, Bill Yuchen Lin.* [[abs](https://arxiv.org/pdf/2311.05657.pdf)], 2023.11
+
+29. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
 
     *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen.* [[abs](https://arxiv.org/abs/2401.05268)], 2024.01
+
+
 
 
 ##### Adversarial Interactions 👨🏻‍🦳🗣
