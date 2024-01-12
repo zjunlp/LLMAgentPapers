@@ -675,9 +675,14 @@ Must-read Papers on Large Language Model Agents.
 
    *Zijun Liu, Yanzhe Zhang, Peng Li, Yang Liu, Diyi Yang.* [[abs](https://arxiv.org/abs/2310.02170)], 2023.10
 
-3. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
+3. **OpenAgents: An Open Platform for Language Agents in the Wild**
+
+   *Tianbao Xie, Fan Zhou, Zhoujun Cheng, Peng Shi, Luoxuan Weng, Yitao Liu, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, Tao Yu.* [[abs](https://arxiv.org/abs/2310.10634)], 2023.10
+
+4. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
 
    *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen.* [[abs](https://arxiv.org/abs/2401.05268)], 2024.01
+
 
 ### 🔖 Others
 
