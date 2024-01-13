@@ -79,6 +79,10 @@ Must-read Papers on Large Language Model Agents.
 5. **Agent AI: Surveying the Horizons of Multimodal Interaction**
 
    *Zane Durante, Qiuyuan Huang, Naoki Wake, Ran Gong, Jae Sung Park, Bidipta Sarkar, Rohan Taori, Yusuke Noda, Demetri Terzopoulos, Yejin Choi, Katsushi Ikeuchi, Hoi Vo, Li Fei-Fei, Jianfeng Gao.* [[abs](https://arxiv.org/pdf/2401.03568.pdf)], 2024.1
+
+6. **Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security**
+
+   *Yuanchun Li, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun, Rui Kong, Yile Wang, Hanfei Geng, Jian Luan, Xuefeng Jin, Zilong Ye, Guanjing Xiong, Fan Zhang, Xiang Li, Mengwei Xu, Zhijun Li, Peng Li, Yang Liu, Ya-Qin Zhang, Yunxin Liu.* [[abs](https://arxiv.org/pdf/2401.05459.pdf)], 2024.1
    
 ---
 
