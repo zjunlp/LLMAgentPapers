@@ -720,6 +720,10 @@ Must-read Papers on Large Language Model Agents.
 
    *Yangjun Ruan, Honghua Dong, Andrew Wang, Silviu Pitis, Yongchao Zhou, Jimmy Ba, Yann Dubois, Chris J. Maddison, Tatsunori Hashimoto.* [[abs](https://arxiv.org/abs/2309.15817)], 2023.9
 
+6. **T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step**
+
+   *Zehui Chen, Weihua Du, Wenwei Zhang, Kuikun Liu, Jiangning Liu, Miao Zheng, Jingming Zhuo, Songyang Zhang, Dahua Lin, Kai Chen, Feng Zhao.* [[abs](https://arxiv.org/abs/2312.14033)], 2023.12
+
 ###  Types of Tools
 
 |      Types      | Tools                                                        |
