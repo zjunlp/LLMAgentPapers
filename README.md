@@ -364,6 +364,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen.* [[abs](https://arxiv.org/abs/2401.05268)], 2024.01
 
+40. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**
+   
+    *Jian Xie, Kai Zhang, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su.* [[abs](https://arxiv.org/pdf/2402.01622.pdf)],2024.02
+
 #### Tool use. 👩‍🔧🔧
 
 1. **WebGPT: Browser-assisted question-answering with human feedback**
@@ -723,6 +727,7 @@ Must-read Papers on Large Language Model Agents.
 7. **T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step**
 
    *Zehui Chen, Weihua Du, Wenwei Zhang, Kuikun Liu, Jiangning Liu, Miao Zheng, Jingming Zhuo, Songyang Zhang, Dahua Lin, Kai Chen, Feng Zhao.* [[abs](https://arxiv.org/abs/2312.14033)], 2023.12
+   
 8. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**
 
    *Jian Xie, Kai Zhang, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su.* [[abs](https://arxiv.org/pdf/2402.01622.pdf)],2024.02
