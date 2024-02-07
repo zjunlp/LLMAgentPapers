@@ -205,6 +205,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Theodore Sumers, Shunyu Yao, Karthik Narasimhan, Thomas L. Griffiths* [[abs](https://arxiv.org/abs/2309.02427)], 2023.9
 
+19. **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models**
+
+    *Zihao Wang, Shaofei Cai, Anji Liu, Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, Xiaojian Ma, Yitao Liang*. [[abs](https://arxiv.org/abs/2311.05997)], 2023.11
+
 
 #### Planning. 🧩♟️
 
@@ -348,23 +352,27 @@ Must-read Papers on Large Language Model Agents.
 
     *Shaohui Peng, Xing Hu, Qi Yi, Rui Zhang, Jiaming Guo, Di Huang, Zikang Tian, Ruizhi Chen, Zidong Du, Qi Guo, Yunji Chen, Ling Li.* [[abs](https://arxiv.org/abs/2309.01352)], 2023.9
 
-36. **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator**
+36. **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models**
+
+    *Zihao Wang, Shaofei Cai, Anji Liu, Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, Xiaojian Ma, Yitao Liang*. [[abs](https://arxiv.org/abs/2311.05997)], 2023.11
+
+37. **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator**
 
     *Chengshu Li, Jacky Liang, Andy Zeng, Xinyun Chen, Karol Hausman, Dorsa Sadigh, Sergey Levine, Li Fei-Fei, Fei Xia, Brian Ichter.* [[abs](https://arxiv.org/abs/2312.04474)], 2023.12
 
-37. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
+38. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
 
     *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan, Manzil Zaheer, Felix Yu, Sanjiv Kumar.* [[abs](https://arxiv.org/abs/2312.10003)], 2023.12
 
-38. **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**
+39. **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**
 
     *Wenqi Zhang, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu.* [[abs](https://arxiv.org/abs/2401.02009)], 2024.01
 
-39. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
+40. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
 
     *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen.* [[abs](https://arxiv.org/abs/2401.05268)], 2024.01
 
-40. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**
+41. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**
    
     *Jian Xie, Kai Zhang, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su.* [[abs](https://arxiv.org/pdf/2402.01622.pdf)],2024.02
 
@@ -450,7 +458,11 @@ Must-read Papers on Large Language Model Agents.
 
     *Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang* [[abs](https://arxiv.org/abs/2306.07209)], 2023.6
 
-21. **GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension**
+21. **CLOVA: A Closed-LOop Visual Assistant with Tool Usage and Update**
+
+    *Zhi Gao, Yuntao Du, Xintong Zhang, Xiaojian Ma, Wenjuan Han, Song-Chun Zhu, Qing Li* [[abs](https://arxiv.org/abs/2312.10908)], 2023.12
+
+23. **GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension**
 
     *Bohan Lyu, Xin Cong, Heyang Yu, Pan Yang, Yujia Qin, Yining Ye, Yaxi Lu, Zhong Zhang, Yukun Yan, Yankai Lin, Zhiyuan Liu, Maosong Sun.* [[abs](https://arxiv.org/pdf/2312.17294.pdf)], 2023.12
     
@@ -565,15 +577,19 @@ Must-read Papers on Large Language Model Agents.
 
     *Ceyao Zhang, Kaijie Yang, Siyi Hu, Zihao Wang, Guanghe Li, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang.* [[abs](https://arxiv.org/abs/2308.11339)], 2023.8
 
-27. **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**
+27. **MindAgent: Emergent Gaming Interaction**
+
+    *Ran Gong, Qiuyuan Huang, Xiaojian Ma, Hoi Vo, Zane Durante Yusuke Noda, Zilong Zheng, Song-Chun Zhu Demetri Terzopoulos, Li Fei-Fei, Jianfeng Gao.* [[abs](https://arxiv.org/abs/2309.09971)], 2023.9
+
+28. **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**
 
     *Jintian Zhang, Xin Xu, Shumin Deng.* [[abs](https://arxiv.org/abs/2310.02124)], 2023.10
 
-28. **Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs**
+29. **Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs**
 
     *Da Yin, Faeze Brahman, Abhilasha Ravichander, Khyathi Chandu, Kai-Wei Chang, Yejin Choi, Bill Yuchen Lin.* [[abs](https://arxiv.org/pdf/2311.05657.pdf)], 2023.11
 
-29. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
+30. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
 
     *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen.* [[abs](https://arxiv.org/abs/2401.05268)], 2024.01
 
