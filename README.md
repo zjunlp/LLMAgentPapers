@@ -356,23 +356,27 @@ Must-read Papers on Large Language Model Agents.
 
     *Zihao Wang, Shaofei Cai, Anji Liu, Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, Xiaojian Ma, Yitao Liang*. [[abs](https://arxiv.org/abs/2311.05997)], 2023.11
 
-37. **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator**
+37. **LEO: An Embodied Generalist Agent in 3D World**
+
+    *Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu*, Puhao Li, Yan Wang, Qing Li, Song-Chun Zhu, Baoxiong Jia, Siyuan Huang* [[abs](https://arxiv.org/abs/2311.12871)], 2023.11
+
+38. **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator**
 
     *Chengshu Li, Jacky Liang, Andy Zeng, Xinyun Chen, Karol Hausman, Dorsa Sadigh, Sergey Levine, Li Fei-Fei, Fei Xia, Brian Ichter.* [[abs](https://arxiv.org/abs/2312.04474)], 2023.12
 
-38. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
+39. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
 
     *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan, Manzil Zaheer, Felix Yu, Sanjiv Kumar.* [[abs](https://arxiv.org/abs/2312.10003)], 2023.12
 
-39. **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**
+40. **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**
 
     *Wenqi Zhang, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu.* [[abs](https://arxiv.org/abs/2401.02009)], 2024.01
 
-40. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
+41. **AutoAct: Automatic Agent Learning from Scratch via Self-Planning**
 
     *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen.* [[abs](https://arxiv.org/abs/2401.05268)], 2024.01
 
-41. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**
+42. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**
    
     *Jian Xie, Kai Zhang, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su.* [[abs](https://arxiv.org/pdf/2402.01622.pdf)],2024.02
 
