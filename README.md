@@ -757,6 +757,10 @@ Must-read Papers on Large Language Model Agents.
 
    *Jian Xie, Kai Zhang, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su.* [[abs](https://arxiv.org/pdf/2402.01622.pdf)],2024.02
 
+9. **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**
+
+   *Chang Ma, Junlei Zhang, Zhihao Zhu, Cheng Yang, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, Junxian He.*  [[abs](https://arxiv.org/abs/2401.13178)],2024.01
+
 ###  Types of Tools
 
 |      Types      | Tools                                                        |
