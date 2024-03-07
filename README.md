@@ -380,6 +380,10 @@ Must-read Papers on Large Language Model Agents.
    
     *Jian Xie, Kai Zhang, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su.* [[abs](https://arxiv.org/pdf/2402.01622.pdf)],2024.02
 
+43. **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**
+
+    *Yuqi Zhu, Shuofei Qiao, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen.* [[abs](https://arxiv.org/abs/2403.03101)], 2024.03
+
 #### Tool use. 👩‍🔧🔧
 
 1. **WebGPT: Browser-assisted question-answering with human feedback**
