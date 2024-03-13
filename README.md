@@ -20,7 +20,8 @@ Must-read Papers on Large Language Model Agents.
 
 ## 🔔 News
 
-- **2023-06-18 We create this repository to maintain a paper list on *Multi-agents* .**
+- **[2024-03]** We release a new paper: "[KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101)".
+- **[2023-06]** We create this repository to maintain a paper list on *Multi-agents*.
 
 
 
