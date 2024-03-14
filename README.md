@@ -385,6 +385,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Yuqi Zhu, Shuofei Qiao, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen.* [[abs](https://arxiv.org/abs/2403.03101)], 2024.03
 
+44. **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents**
+
+    *Ruiyi Wang, Haofei Yu, Wenxin Zhang, Zhengyang Qi, Maarten Sap, Graham Neubig, Yonatan Bisk, Hao Zhu.* [[abs](https://arxiv.org/abs/2403.08715)], 2024.03
+
 #### Tool use. 👩‍🔧🔧
 
 1. **WebGPT: Browser-assisted question-answering with human feedback**
