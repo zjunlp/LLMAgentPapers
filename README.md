@@ -389,6 +389,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Ruiyi Wang, Haofei Yu, Wenxin Zhang, Zhengyang Qi, Maarten Sap, Graham Neubig, Yonatan Bisk, Hao Zhu.* [[abs](https://arxiv.org/abs/2403.08715)], 2024.03
 
+45. **AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents**
+
+    *Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee.* [[abs](https://arxiv.org/abs/2403.08978)], 2024.03
+    
 #### Tool use. 👩‍🔧🔧
 
 1. **WebGPT: Browser-assisted question-answering with human feedback**
