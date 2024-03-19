@@ -482,6 +482,10 @@ Must-read Papers on Large Language Model Agents.
 23. **GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension**
 
     *Bohan Lyu, Xin Cong, Heyang Yu, Pan Yang, Yujia Qin, Yining Ye, Yaxi Lu, Zhong Zhang, Yukun Yan, Yankai Lin, Zhiyuan Liu, Maosong Sun.* [[abs](https://arxiv.org/pdf/2312.17294.pdf)], 2023.12
+
+24. **EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction**
+
+    *Siyu Yuan, Kaitao Song, Jiangjie Chen, Xu Tan, Yongliang Shen, Kan Ren, Dongsheng Li, Deqing Yang.* [[abs](https://arxiv.org/abs/2401.06201)], 2024.1
     
 
 ### 🤖💬🤖 Multiple Agents
