@@ -381,15 +381,19 @@ Must-read Papers on Large Language Model Agents.
    
     *Jian Xie, Kai Zhang, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su.* [[abs](https://arxiv.org/pdf/2402.01622.pdf)],2024.02
 
-43. **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**
+43. **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization**
+    
+    *Wenqi Zhang, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu.* [[abs](https://arxiv.org/pdf/2402.17574)],2024.02
+
+44. **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**
 
     *Yuqi Zhu, Shuofei Qiao, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen.* [[abs](https://arxiv.org/abs/2403.03101)], 2024.03
 
-44. **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents**
+45. **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents**
 
     *Ruiyi Wang, Haofei Yu, Wenxin Zhang, Zhengyang Qi, Maarten Sap, Graham Neubig, Yonatan Bisk, Hao Zhu.* [[abs](https://arxiv.org/abs/2403.08715)], 2024.03
 
-45. **AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents**
+46. **AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents**
 
     *Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee.* [[abs](https://arxiv.org/abs/2403.08978)], 2024.03
     
