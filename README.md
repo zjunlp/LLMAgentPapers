@@ -396,6 +396,10 @@ Must-read Papers on Large Language Model Agents.
 46. **AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents**
 
     *Yao Fu, Dong-Ki Kim, Jaekyeom Kim, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee.* [[abs](https://arxiv.org/abs/2403.08978)], 2024.03
+
+47. **Empowering Large Language Model Agents through Action Learning**
+
+    *Haiteng Zhao, Chang Ma, Guoyin Wang, Jing Su, Lingpeng Kong, Jingjing Xu, Zhi-Hong Deng, Hongxia Yang.* [[abs](https://arxiv.org/abs/2402.15809)], 2024.02
     
 #### Tool use. 👩‍🔧🔧
 
