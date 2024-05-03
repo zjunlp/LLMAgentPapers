@@ -130,6 +130,10 @@ Must-read Papers on Large Language Model Agents.
 10. **Taken out of context: On measuring situational awareness in LLMs**
 
     *Lukas Berglund, Asa Cooper Stickland, Mikita Balesni, Max Kaufmann, Meg Tong, Tomasz Korbak, Daniel Kokotajlo, Owain Evans.* [[abs](https://arxiv.org/abs/2309.00667)], 2023.9
+
+11. **Can Large Language Model Agents Simulate Human Trust Behaviors?**
+
+    *Chengxing Xie, Canyu Chen, Feiran Jia, Ziyu Ye, Kai Shu, Adel Bibi, Ziniu Hu, Philip Torr, Bernard Ghanem, Guohao Li.* [[abs](https://arxiv.org/abs/2402.04559)], 2024.02
     
     
 #### Memory. 💭💫
