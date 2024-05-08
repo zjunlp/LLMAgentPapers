@@ -214,6 +214,9 @@ Must-read Papers on Large Language Model Agents.
 
     *Zihao Wang, Shaofei Cai, Anji Liu, Yonggang Jin, Jinbing Hou, Bowei Zhang, Haowei Lin, Zhaofeng He, Zilong Zheng, Yaodong Yang, Xiaojian Ma, Yitao Liang*. [[abs](https://arxiv.org/abs/2311.05997)], 2023.11
 
+20. **A Survey on the Memory Mechanism of Large Language Model based Agents**
+
+    *Zeyu Zhang, Xiaohe Bo, Chen Ma, Rui Li, Xu Chen, Quanyu Dai, Jieming Zhu, Zhenhua Dong, Ji-Rong Wen*. [[abs](https://arxiv.org/abs/2404.13501)], 2024.4
 
 #### Planning. 🧩♟️
 
