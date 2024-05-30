@@ -407,6 +407,14 @@ Must-read Papers on Large Language Model Agents.
 47. **Empowering Large Language Model Agents through Action Learning**
 
     *Haiteng Zhao, Chang Ma, Guoyin Wang, Jing Su, Lingpeng Kong, Jingjing Xu, Zhi-Hong Deng, Hongxia Yang.* [[abs](https://arxiv.org/abs/2402.15809)], 2024.02
+
+48. **Devil’s Advocate: Anticipatory Reflection for LLM Agents**
+
+    *Haoyu Wang, Tao Li, Zhiwei Deng, Dan Roth, Yang Li.* [[abs](https://arxiv.org/abs/2405.16334v3)], 2024.05
+    
+49. **Agent Planning with World Knowledge Model**
+
+    *Shuofei Qiao, Runnan Fang, Ningyu Zhang, Yuqi Zhu, Xiang Chen, Shumin Deng, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen.* [[abs](https://arxiv.org/abs/2405.14205)], 2024.05
     
 #### Tool use. 👩‍🔧🔧
 
