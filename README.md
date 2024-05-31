@@ -802,8 +802,12 @@ Must-read Papers on Large Language Model Agents.
    *Chang Ma, Junlei Zhang, Zhihao Zhu, Cheng Yang, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, Junxian He.*  [[abs](https://arxiv.org/abs/2401.13178)],2024.01
 
 10. **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**
+   
+    *Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu.*  [[abs](https://arxiv.org/abs/2404.07972)],2024.04
 
-   *Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu.*  [[abs](https://arxiv.org/abs/2404.07972)],2024.04
+11. **TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models**
+
+    *Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, Hwaran Lee, Gunhee Kim.* [[abs](https://arxiv.org/abs/2405.18027)],2024.05
 
 ###  Types of Tools
 
