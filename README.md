@@ -415,6 +415,10 @@ Must-read Papers on Large Language Model Agents.
 49. **Agent Planning with World Knowledge Model**
 
     *Shuofei Qiao, Runnan Fang, Ningyu Zhang, Yuqi Zhu, Xiang Chen, Shumin Deng, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen.* [[abs](https://arxiv.org/abs/2405.14205)], 2024.05
+
+50. **Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models**
+
+    *Cong Lu, Shengran Hu, Jeff Clune.* [[abs](https://arxiv.org/abs/2405.15143)], 2024.05
     
 #### Tool use. 👩‍🔧🔧
 
