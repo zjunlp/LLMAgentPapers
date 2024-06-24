@@ -218,6 +218,15 @@ Must-read Papers on Large Language Model Agents.
 
     *Zeyu Zhang, Xiaohe Bo, Chen Ma, Rui Li, Xu Chen, Quanyu Dai, Jieming Zhu, Zhenhua Dong, Ji-Rong Wen*. [[abs](https://arxiv.org/abs/2404.13501)], 2024.4
 
+21. **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**
+
+    *Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su.* [[abs](https://arxiv.org/abs/2405.14831)], 2024.5
+    
+23. **Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models**
+
+    *Ling Yang, Zhaochen Yu, Tianjun Zhang, Shiyi Cao, Minkai Xu, Wentao Zhang, Joseph E. Gonzalez, Bin Cui.*  [[abs](https://arxiv.org/abs/2406.04271)],2024,6
+
+
 #### Planning. 🧩♟️
 
 1. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**
@@ -419,6 +428,18 @@ Must-read Papers on Large Language Model Agents.
 50. **Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models**
 
     *Cong Lu, Shengran Hu, Jeff Clune.* [[abs](https://arxiv.org/abs/2405.15143)], 2024.05
+
+51. **Faithful Logical Reasoning via Symbolic Chain-of-Thought**
+
+    *Jundong Xu, Hao Fei, Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu.* [[abs](https://arxiv.org/abs/2405.18357)], 2024.05
+
+52. **Alice in Wonderland：Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models**
+
+    *Marianna Nezhurina, Lucia Cipolina-Kun, Mehdi Cherti, Jenia Jitsev.* [[abs](https://arxiv.org/abs/2406.02061)], 2024.06
+    
+53. **TextGrad: Automatic “Differentiation” via Text**
+
+    *Mert Yuksekgonul, Federico Bianchi, Joseph Boen, Sheng Liu, Zhi Huang, Carlos Guestrin, James Zou.* [[abs](https://arxiv.org/abs/2406.07496)], 2024.06
     
 #### Tool use. 👩‍🔧🔧
 
