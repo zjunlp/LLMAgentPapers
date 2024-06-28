@@ -440,6 +440,10 @@ Must-read Papers on Large Language Model Agents.
 53. **TextGrad: Automatic “Differentiation” via Text**
 
     *Mert Yuksekgonul, Federico Bianchi, Joseph Boen, Sheng Liu, Zhi Huang, Carlos Guestrin, James Zou.* [[abs](https://arxiv.org/abs/2406.07496)], 2024.06
+
+54. **Symbolic Learning Enables Self-Evolving Agents**
+
+    *Wangchunshu Zhou, Yixin Ou, Shengwei Ding, Long Li, Jialong Wu, Tiannan Wang, Jiamin Chen, Shuai Wang, Xiaohua Xu, Ningyu Zhang, Huajun Chen, Yuchen Eleanor Jiang.* [[abs](https://arxiv.org/abs/2406.18532v1)], 2024.06
     
 #### Tool use. 👩‍🔧🔧
 
