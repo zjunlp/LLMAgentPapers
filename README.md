@@ -84,6 +84,10 @@ Must-read Papers on Large Language Model Agents.
 6. **Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security**
 
    *Yuanchun Li, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun, Rui Kong, Yile Wang, Hanfei Geng, Jian Luan, Xuefeng Jin, Zilong Ye, Guanjing Xiong, Fan Zhang, Xiang Li, Mengwei Xu, Zhijun Li, Peng Li, Yang Liu, Ya-Qin Zhang, Yunxin Liu.* [[abs](https://arxiv.org/pdf/2401.05459.pdf)], 2024.1
+
+7. **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**
+
+   *Qiushi Sun, Zhirui Chen, Fangzhi Xu, Kanzhi Cheng, Chang Ma, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Qipeng Guo, Xipeng Qiu, Pengcheng Yin, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu.* [[abs](https://arxiv.org/abs/2403.14734)], 2024.3
    
 ---
 
@@ -444,6 +448,15 @@ Must-read Papers on Large Language Model Agents.
 54. **Symbolic Learning Enables Self-Evolving Agents**
 
     *Wangchunshu Zhou, Yixin Ou, Shengwei Ding, Long Li, Jialong Wu, Tiannan Wang, Jiamin Chen, Shuai Wang, Xiaohua Xu, Ningyu Zhang, Huajun Chen, Yuchen Eleanor Jiang.* [[abs](https://arxiv.org/abs/2406.18532v1)], 2024.06
+
+55. **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement**
+
+    *Zhiyong Wu, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.* [[abs](https://arxiv.org/abs/2402.07456)], 2024.02
+
+56. **SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents**
+
+    *Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu.* [[abs](https://arxiv.org/abs/2401.10935)], 2024.01
+    
     
 #### Tool use. 👩‍🔧🔧
 
@@ -538,7 +551,10 @@ Must-read Papers on Large Language Model Agents.
 24. **EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction**
 
     *Siyu Yuan, Kaitao Song, Jiangjie Chen, Xu Tan, Yongliang Shen, Kan Ren, Dongsheng Li, Deqing Yang.* [[abs](https://arxiv.org/abs/2401.06201)], 2024.1
-    
+
+25. **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models**
+
+    *Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu.* [[abs](https://arxiv.org/abs/2311.09278)], 2023.11
 
 ### 🤖💬🤖 Multiple Agents
 
@@ -666,7 +682,9 @@ Must-read Papers on Large Language Model Agents.
 
     *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv, Huajun Chen.* [[abs](https://arxiv.org/abs/2401.05268)], 2024.01
 
+31. **Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration**
 
+    *Qiushi Sun, Zhangyue Yin, Xiang Li, Zhiyong Wu, Xipeng Qiu, Lingpeng Kong.* [[abs](https://arxiv.org/abs/2310.00280)], 2023.10
 
 
 ##### Adversarial Interactions 👨🏻‍🦳🗣
@@ -782,9 +800,11 @@ Must-read Papers on Large Language Model Agents.
 
 5. **An Interactive Agent Foundation Model**
 
-   *Zane Durante, Bidipta Sarkar, Ran Gong, Rohan Taori, Yusuke Noda, Paul Tang, Ehsan Adeli, Shrinidhi Kowshika Lakshmikanth, Kevin Schulman, Arnold Milstein, Demetri Terzopoulos, Ade Famoti, Noboru Kuno, Ashley Llorens, Hoi Vo, Katsu Ikeuchi, Li Fei-Fei, Jianfeng Gao, Naoki Wake, Qiuyuan Huang* [[abs](https://arxiv.org/abs/2402.05929)], 2024.02
+   *Zane Durante, Bidipta Sarkar, Ran Gong, Rohan Taori, Yusuke Noda, Paul Tang, Ehsan Adeli, Shrinidhi Kowshika Lakshmikanth, Kevin Schulman, Arnold Milstein, Demetri Terzopoulos, Ade Famoti, Noboru Kuno, Ashley Llorens, Hoi Vo, Katsu Ikeuchi, Li Fei-Fei, Jianfeng Gao, Naoki Wake, Qiuyuan Huang.* [[abs](https://arxiv.org/abs/2402.05929)], 2024.02
 
+6. **Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models**
 
+   *Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu.* [[abs](https://arxiv.org/abs/2406.11736)], 2024.06
 
 ### 🔖 Others
 
