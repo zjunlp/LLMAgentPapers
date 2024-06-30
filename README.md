@@ -12,7 +12,7 @@ Must-read Papers on Large Language Model Agents.
 
 💡 **[Prompt4ReasoningPapers](https://github.com/zjunlp/Prompt4ReasoningPapers):** Reasoning with Language Model Prompting Papers.
 
-🔬 **[KnowledgeditingPapers](https://github.com/zjunlp/KnowledgeEditingPapers):**  Must-read papers on knowledge editing for large language models.
+🔬 **[KnowledgeEditingPapers](https://github.com/zjunlp/KnowledgeEditingPapers):**  Must-read papers on knowledge editing for large language models.
 
 *We sincerely invite you to dive into these collections of papers and resources, each offering a distinct journey of exploration and discovery.*  :partying_face:”
 
