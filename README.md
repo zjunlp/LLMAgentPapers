@@ -779,6 +779,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen.* [[abs](https://arxiv.org/abs/2309.17452)] [[code](https://github.com/microsoft/ToRA)], 2023.9
 
+8. **Agentic Skill Discovery**
+
+    *Xufeng Zhao, Cornelius Weber, Stefan Wermter* [[abs](https://arxiv.org/abs/2405.15019)] [[code](https://github.com/xf-zhao/Agentic-Skill-Discovery)], 2024.5
+
 
 ### 🖼️ Framework
 
