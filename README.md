@@ -806,9 +806,15 @@ Must-read Papers on Large Language Model Agents.
 
    *Zane Durante, Bidipta Sarkar, Ran Gong, Rohan Taori, Yusuke Noda, Paul Tang, Ehsan Adeli, Shrinidhi Kowshika Lakshmikanth, Kevin Schulman, Arnold Milstein, Demetri Terzopoulos, Ade Famoti, Noboru Kuno, Ashley Llorens, Hoi Vo, Katsu Ikeuchi, Li Fei-Fei, Jianfeng Gao, Naoki Wake, Qiuyuan Huang.* [[abs](https://arxiv.org/abs/2402.05929)], 2024.02
 
-6. **Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models**
+6. **Emergence of Social Norms in Generative Agent Societies: Principles and Architecture**
+
+   *Siyue Ren, Zhiyao Cui, Ruiqi Song, Zhen Wang, Shuyue Hu.* [[abs](https://arxiv.org/abs/2403.08251)], 2024.03
+
+7. **Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models**
 
    *Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu.* [[abs](https://arxiv.org/abs/2406.11736)], 2024.06
+
+
 
 ### 🔖 Others
 
