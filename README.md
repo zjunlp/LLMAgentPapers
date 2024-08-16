@@ -686,6 +686,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Qiushi Sun, Zhangyue Yin, Xiang Li, Zhiyong Wu, Xipeng Qiu, Lingpeng Kong.* [[abs](https://arxiv.org/abs/2310.00280)], 2023.10
 
+32. **CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving**
+
+    *Pei Chen, Boran Han, Shuai Zhang.* [[abs](https://arxiv.org/abs/2404.17729)], 2024.4
+
 
 ##### Adversarial Interactions 👨🏻‍🦳🗣
 
