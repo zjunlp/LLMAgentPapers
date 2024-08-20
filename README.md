@@ -544,19 +544,19 @@ Must-read Papers on Large Language Model Agents.
 
     *Zhi Gao, Yuntao Du, Xintong Zhang, Xiaojian Ma, Wenjuan Han, Song-Chun Zhu, Qing Li* [[abs](https://arxiv.org/abs/2312.10908)], 2023.12
 
-23. **GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension**
+22. **GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension**
 
     *Bohan Lyu, Xin Cong, Heyang Yu, Pan Yang, Yujia Qin, Yining Ye, Yaxi Lu, Zhong Zhang, Yukun Yan, Yankai Lin, Zhiyuan Liu, Maosong Sun.* [[abs](https://arxiv.org/pdf/2312.17294.pdf)], 2023.12
 
-24. **EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction**
+23. **EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction**
 
     *Siyu Yuan, Kaitao Song, Jiangjie Chen, Xu Tan, Yongliang Shen, Kan Ren, Dongsheng Li, Deqing Yang.* [[abs](https://arxiv.org/abs/2401.06201)], 2024.1
 
-25. **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models**
+24. **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models**
 
     *Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu.* [[abs](https://arxiv.org/abs/2311.09278)], 2023.11
 
-26. **Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**
+25. **Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**
 
     *Felix Ocker, Daniel Tanneberg, Julian Eggert, Michael Gienger.* [[abs](https://arxiv.org/abs/2407.21778)], 2024.07
 
