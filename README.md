@@ -556,6 +556,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu.* [[abs](https://arxiv.org/abs/2311.09278)], 2023.11
 
+26. **Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**
+
+    *Felix Ocker, Daniel Tanneberg, Julian Eggert, Michael Gienger.* [[abs](https://arxiv.org/abs/2407.21778)], 2024.07
+
 ### 🤖💬🤖 Multiple Agents
 
 #### Task-Oriented Communication
