@@ -694,6 +694,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Pei Chen, Boran Han, Shuai Zhang.* [[abs](https://arxiv.org/abs/2404.17729)], 2024.4
 
+33. **Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**
+
+    *Yucheng Jiang, Yijia Shao, Dekun Ma, Sina J. Semnani, Monica S. Lam.* [[abs](https://arxiv.org/abs/2408.15232)], 2024.8
+
 
 ##### Adversarial Interactions 👨🏻‍🦳🗣
 
@@ -791,6 +795,9 @@ Must-read Papers on Large Language Model Agents.
 
     *Xufeng Zhao, Cornelius Weber, Stefan Wermter* [[abs](https://arxiv.org/abs/2405.15019)] [[code](https://github.com/xf-zhao/Agentic-Skill-Discovery)], 2024.5
 
+9. **Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models**
+
+    *Yijia Shao, Yucheng Jiang, Theodore A. Kanell, Peter Xu, Omar Khattab, Monica S. Lam.* [[abs](https://arxiv.org/abs/2402.14207)], [[code](https://github.com/stanford-oval/storm)], 2024.4
 
 ### 🖼️ Framework
 
@@ -929,6 +936,8 @@ Must-read Papers on Large Language Model Agents.
 - **[Lagent](https://github.com/InternLM/lagent).** A lightweight framework for building LLM-based agents.
   
 - **[ToolEmu](https://github.com/ryoungj/ToolEmu)** An LLM-based emulation framework for testing and identifying the risks of LLM-based agents
+
+- **[storm](https://github.com/stanford-oval/storm)** A knowledge agent that researches a topic and generates a full-length report with citations.
 
 ---
 
