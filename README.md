@@ -883,6 +883,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, Hwaran Lee, Gunhee Kim.* [[abs](https://arxiv.org/abs/2405.18027)],2024.05
 
+12. **AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents**
+
+    *Harsh Trivedi, Tushar Khot, Mareike Hartmann, Ruskin Manku, Vinty Dong, Edward Li, Shashank Gupta, Ashish Sabharwal, Niranjan Balasubramanian.* [[abs](https://arxiv.org/abs/2407.18901)], 2024.07
+
 ###  Types of Tools
 
 |      Types      | Tools                                                        |
