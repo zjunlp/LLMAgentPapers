@@ -560,6 +560,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Felix Ocker, Daniel Tanneberg, Julian Eggert, Michael Gienger.* [[abs](https://arxiv.org/abs/2407.21778)], 2024.07
 
+26. **OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs**
+
+    *Jintian Zhang, Cheng Peng, Mengshu Sun, Xiang Chen, Lei Liang, Zhiqiang Zhang, Jun Zhou, Huajun Chen, Ningyu Zhang.* [[abs](https://arxiv.org/abs/2409.05152)], 2024.09
+
 ### 🤖💬🤖 Multiple Agents
 
 #### Task-Oriented Communication
