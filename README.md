@@ -873,23 +873,27 @@ Must-read Papers on Large Language Model Agents.
    
 8. **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**
 
-   *Jian Xie, Kai Zhang, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su.* [[abs](https://arxiv.org/pdf/2402.01622.pdf)],2024.02
+   *Jian Xie, Kai Zhang, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su.* [[abs](https://arxiv.org/pdf/2402.01622.pdf)], 2024.02
 
 9. **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**
 
-   *Chang Ma, Junlei Zhang, Zhihao Zhu, Cheng Yang, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, Junxian He.*  [[abs](https://arxiv.org/abs/2401.13178)],2024.01
+   *Chang Ma, Junlei Zhang, Zhihao Zhu, Cheng Yang, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, Junxian He.*  [[abs](https://arxiv.org/abs/2401.13178)], 2024.01
 
 10. **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**
    
-    *Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu.*  [[abs](https://arxiv.org/abs/2404.07972)],2024.04
+    *Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu.*  [[abs](https://arxiv.org/abs/2404.07972)], 2024.04
 
 11. **TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models**
 
-    *Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, Hwaran Lee, Gunhee Kim.* [[abs](https://arxiv.org/abs/2405.18027)],2024.05
+    *Jaewoo Ahn, Taehyun Lee, Junyoung Lim, Jin-Hwa Kim, Sangdoo Yun, Hwaran Lee, Gunhee Kim.* [[abs](https://arxiv.org/abs/2405.18027)], 2024.05
 
 12. **AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents**
 
     *Harsh Trivedi, Tushar Khot, Mareike Hartmann, Ruskin Manku, Vinty Dong, Edward Li, Shashank Gupta, Ashish Sabharwal, Niranjan Balasubramanian.* [[abs](https://arxiv.org/abs/2407.18901)], 2024.07
+
+12. **Benchmarking Agentic Workflow Generation**
+
+    *Shuofei Qiao, Runnan Fang, Zhisong Qiu, Xiaobin Wang, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen*. [[abs](https://arxiv.org/abs/2410.07869)], 2024.10
 
 ###  Types of Tools
 
