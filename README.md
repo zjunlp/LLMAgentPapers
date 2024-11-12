@@ -456,6 +456,8 @@ Must-read Papers on Large Language Model Agents.
 56. **SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents**
 
     *Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu.* [[abs](https://arxiv.org/abs/2401.10935)], 2024.01
+
+
     
     
 #### Tool use. 👩‍🔧🔧
@@ -832,6 +834,10 @@ Must-read Papers on Large Language Model Agents.
 7. **Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models**
 
    *Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu.* [[abs](https://arxiv.org/abs/2406.11736)], 2024.06
+
+8. **AgentSquare: Automatic LLM Agent Search in Modular Design Space**
+
+   **Yu Shang, Yu Li, Keyu Zhao, Likai Ma, Jiahe Liu, Fengli Xu, Yong Li** [[abs](https://arxiv.org/abs/2410.06153)], 2024.10
 
 
 
