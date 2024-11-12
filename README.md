@@ -837,7 +837,7 @@ Must-read Papers on Large Language Model Agents.
 
 8. **AgentSquare: Automatic LLM Agent Search in Modular Design Space**
 
-   **Yu Shang, Yu Li, Keyu Zhao, Likai Ma, Jiahe Liu, Fengli Xu, Yong Li** [[abs](https://arxiv.org/abs/2410.06153)], 2024.10
+   *Yu Shang, Yu Li, Keyu Zhao, Likai Ma, Jiahe Liu, Fengli Xu, Yong Li* [[abs](https://arxiv.org/abs/2410.06153)], 2024.10
 
 
 
