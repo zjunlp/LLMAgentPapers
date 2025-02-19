@@ -457,6 +457,9 @@ Must-read Papers on Large Language Model Agents.
 
     *Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu.* [[abs](https://arxiv.org/abs/2401.10935)], 2024.01
 
+57. **Can Graph Learning Improve Planning in LLM-based Agents?**
+
+    *Xixi Wu, Yifei Shen, Caihua Shan, Kaitao Song, Siwei Wang, Bohang Zhang, Jiarui Feng, Hong Cheng, Wei Chen, Yun Xiong, Dongsheng Li.* [[abs](https://arxiv.org/abs/2405.19119)], 2024.05
 
     
     
