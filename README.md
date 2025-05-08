@@ -88,6 +88,10 @@ Must-read Papers on Large Language Model Agents.
 7. **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**
 
    *Qiushi Sun, Zhirui Chen, Fangzhi Xu, Kanzhi Cheng, Chang Ma, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Qipeng Guo, Xipeng Qiu, Pengcheng Yin, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu.* [[abs](https://arxiv.org/abs/2403.14734)], 2024.3
+
+8. **A Survey on Large Language Model based Human-Agent Systems**
+
+   *Henry Peng Zou, Wei-Chieh Huang, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Langzhou He, Yangning Li, Yuwei Cao, Dongyuan Li, Renhe Jiang, Philip S. Yu.* [[abs](https://arxiv.org/abs/2505.00753)], 2025.5
    
 ---
 
