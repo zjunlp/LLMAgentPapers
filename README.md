@@ -963,6 +963,8 @@ Must-read Papers on Large Language Model Agents.
 - **[ToolEmu](https://github.com/ryoungj/ToolEmu)** An LLM-based emulation framework for testing and identifying the risks of LLM-based agents
 
 - **[storm](https://github.com/stanford-oval/storm)** A knowledge agent that researches a topic and generates a full-length report with citations.
+  
+- **[Comet Opik](https://github.com/comet-ml/opik).** Debug, evaluate, and monitor your agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 
 ---
 
