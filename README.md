@@ -37,6 +37,7 @@ Must-read Papers on Large Language Model Agents.
       - [Memory. 💭💫](#memory-)
       - [Planning. 🧩♟️](#planning-️)
       - [Tool use. 👩‍🔧🔧](#tool-use-)
+      - [RL training. 🧠📈](#rl-training-)
     - [🤖💬🤖 Multiple Agents](#-multiple-agents)
       - [Task-Oriented Communication](#task-oriented-communication)
         - [Collaborative Exchanges 👨‍💻👩‍💻](#collaborative-exchanges-)
@@ -572,6 +573,20 @@ Must-read Papers on Large Language Model Agents.
 26. **OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs**
 
     *Jintian Zhang, Cheng Peng, Mengshu Sun, Xiang Chen, Lei Liang, Zhiqiang Zhang, Jun Zhou, Huajun Chen, Ningyu Zhang.* [[abs](https://arxiv.org/abs/2409.05152)], 2024.09
+
+#### RL training. 🧠📈
+
+1. **Group-in-Group Policy Optimization for LLM Agent Training**
+
+    *Lang Feng, Zhenghai Xue, Tingcong Liu, Bo An* [[abs](https://arxiv.org/abs/2505.10978)][[code](https://github.com/langfengQ/verl-agent)], 2025.5
+
+2. **Towards Efficient Online Tuning of VLM Agents via Counterfactual Soft Reinforcement Learning**
+
+    *Lang Feng, Weihao Tan, Zhiyi Lyu, Longtao Zheng, Haiyang Xu, Ming Yan, Fei Huang, Bo An* [[abs](https://arxiv.org/abs/2505.03792)][[code](https://github.com/langfengQ/CoSo)], 2025.5
+
+3. **Reinforcement Learning for Long-Horizon Interactive LLM Agents**
+
+    *Kevin Chen, Marco Cusumano-Towner, Brody Huval, Aleksei Petrenko, Jackson Hamburger, Vladlen Koltun, Philipp Krähenbühl* [[abs](https://arxiv.org/abs/2502.01600)], 2025.5
 
 ### 🤖💬🤖 Multiple Agents
 
