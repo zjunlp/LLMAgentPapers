@@ -471,6 +471,7 @@ Must-read Papers on Large Language Model Agents.
     *Hanlin Wang, Chak Tou Leong, Jian Wang, Wenjie Li* [[abs](https://aclanthology.org/2024.findings-emnlp.448/)], 2024.11
 
 59. **STeCa: Step-level Trajectory Calibration for LLM Agent Learning**
+    
     *Hanlin Wang, Jian Wang, Chak Tou Leong, Wenjie Li* [[abs](https://arxiv.org/abs/2502.14276)], 2025.5
     
 #### Tool use. 👩‍🔧🔧
