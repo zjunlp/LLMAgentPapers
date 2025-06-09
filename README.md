@@ -466,7 +466,12 @@ Must-read Papers on Large Language Model Agents.
 
     *Xixi Wu, Yifei Shen, Caihua Shan, Kaitao Song, Siwei Wang, Bohang Zhang, Jiarui Feng, Hong Cheng, Wei Chen, Yun Xiong, Dongsheng Li.* [[abs](https://arxiv.org/abs/2405.19119)], 2024.05
 
-    
+58. **E2CL: Exploration-based Error Correction Learning for Embodied Agents**
+
+    *Hanlin Wang, Chak Tou Leong, Jian Wang, Wenjie Li* [[abs](https://aclanthology.org/2024.findings-emnlp.448/)], 2024.11
+
+59. **STeCa: Step-level Trajectory Calibration for LLM Agent Learning**
+    *Hanlin Wang, Jian Wang, Chak Tou Leong, Wenjie Li* [[abs](https://arxiv.org/abs/2502.14276)], 2025.5
     
 #### Tool use. 👩‍🔧🔧
 
@@ -587,6 +592,10 @@ Must-read Papers on Large Language Model Agents.
 3. **Reinforcement Learning for Long-Horizon Interactive LLM Agents**
 
     *Kevin Chen, Marco Cusumano-Towner, Brody Huval, Aleksei Petrenko, Jackson Hamburger, Vladlen Koltun, Philipp Krähenbühl* [[abs](https://arxiv.org/abs/2502.01600)], 2025.5
+
+4. **SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution**
+
+   *Hanlin Wang, Chak Tou Leong, Jiashuo Wang, Jian Wang, Wenjie Li* [[abs](https://arxiv.org/abs/2505.20732)][[code](https://github.com/WangHanLinHenry/SPA-RL-Agent)], 2025.5
 
 ### 🤖💬🤖 Multiple Agents
 
