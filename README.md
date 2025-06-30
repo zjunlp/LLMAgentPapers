@@ -837,6 +837,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Yijia Shao, Yucheng Jiang, Theodore A. Kanell, Peter Xu, Omar Khattab, Monica S. Lam.* [[abs](https://arxiv.org/abs/2402.14207)], [[code](https://github.com/stanford-oval/storm)], 2024.4
 
+10. **CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation**
+
+    *Nicolas Bougie and Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2506.21805)], 2025.6
+
 ### 🖼️ Framework
 
 1. **Agents: An Open-source Framework for Autonomous Language Agents**
