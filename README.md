@@ -766,6 +766,10 @@ Must-read Papers on Large Language Model Agents.
 7. **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**
 
    *Jintian Zhang, Xin Xu, Shumin Deng.* [[abs](https://arxiv.org/abs/2310.02124)], 2023.10
+
+8. **CoMet: Metaphor-Driven Covert Communication for Multi-Agent Language Games**
+
+   *Shuhang Xu, Fangwei Zhong.* [[abs](https://aclanthology.org/2025.acl-long.389/)], 2025.5
    
 ---
 
