@@ -584,6 +584,8 @@ Must-read Papers on Large Language Model Agents.
 
     *Jintian Zhang, Cheng Peng, Mengshu Sun, Xiang Chen, Lei Liang, Zhiqiang Zhang, Jun Zhou, Huajun Chen, Ningyu Zhang.* [[abs](https://arxiv.org/abs/2409.05152)], 2024.09
 
+    
+
 #### RL training. 🧠📈
 
 1. **Group-in-Group Policy Optimization for LLM Agent Training**
@@ -602,6 +604,10 @@ Must-read Papers on Large Language Model Agents.
 
    *Hanlin Wang, Chak Tou Leong, Jiashuo Wang, Jian Wang, Wenjie Li* [[abs](https://arxiv.org/abs/2505.20732)][[code](https://github.com/WangHanLinHenry/SPA-RL-Agent)], 2025.5
 
+5. **In-the-Flow Agentic System Optimization for Effective Planning and Tool Use**
+
+   *Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, Yu Zhang, Yejin Choi, James Zou, Pan Lu* [[abs](https://arxiv.org/abs/2510.05592)], 2025,10
+   
 ### 🤖💬🤖 Multiple Agents
 
 #### Task-Oriented Communication
