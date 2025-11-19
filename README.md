@@ -147,6 +147,10 @@ Must-read Papers on Large Language Model Agents.
 11. **Can Large Language Model Agents Simulate Human Trust Behaviors?**
 
     *Chengxing Xie, Canyu Chen, Feiran Jia, Ziyu Ye, Kai Shu, Adel Bibi, Ziniu Hu, Philip Torr, Bernard Ghanem, Guohao Li.* [[abs](https://arxiv.org/abs/2402.04559)], 2024.02
+
+12. **Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations**
+
+    *Yunzhe Wang, Gale Lucas, Burcin Becerik-Gerber, Volkan Ustun* [[abs](https://aclanthology.org/2025.emnlp-main.1562.pdf)], 2025.10
     
     
 #### Memory. 💭💫
