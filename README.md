@@ -151,7 +151,10 @@ Must-read Papers on Large Language Model Agents.
 12. **Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations**
 
     *Yunzhe Wang, Gale Lucas, Burcin Becerik-Gerber, Volkan Ustun* [[abs](https://aclanthology.org/2025.emnlp-main.1562.pdf)], 2025.10
-    
+
+13. **LLM Agents as Programmable Subjects: Assays and Benchmarks for Agentic Behavior and Alignment**
+
+    *Gaurav Koley, Aditya Thiruvengadam* [[abs](https://www.preprints.org/manuscript/202510.0476)], 2025.10
     
 #### Memory. 💭💫
 
@@ -828,6 +831,10 @@ Must-read Papers on Large Language Model Agents.
 7. **CGMI: Configurable General Multi-Agent Interaction Framework**
 
    *Shi Jinxin, Zhao Jiabao, Wang Yilei, Wu Xingjiao, Li Jiawen, He Liang.* [[abs](https://arxiv.org/abs/2308.12503)], 2023.8
+   
+8. **SALM: A Multi-Agent Framework for Language Model-Driven Social Network Simulation**
+
+    *Gaurav Koley* [[abs](https://arxiv.org/abs/2505.09081)], 2025.5
 
 ### 🪐 Application
 
