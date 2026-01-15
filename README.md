@@ -485,7 +485,11 @@ Must-read Papers on Large Language Model Agents.
     
     *Hanlin Wang, Jian Wang, Chak Tou Leong, Wenjie Li* [[abs](https://arxiv.org/abs/2502.14276)], 2025.5
 
-60. **AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation**
+60. **Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems**
+    
+    *Song Jin, Juntian Zhang, Yuhan Liu, Xun Zhang, Yufei Zhang, Guojun Yin, Fei Jiang, Wei Lin, Rui Yan* [[abs](https://aclanthology.org/2025.emnlp-main.956/)], 2025.5
+
+61. **AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation**
 
     *Nicolas Bougie, Gian Maria Marconi, Tony Yip, Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2601.00930)], 2026.1
 
