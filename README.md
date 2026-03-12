@@ -775,6 +775,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Yucheng Jiang, Yijia Shao, Dekun Ma, Sina J. Semnani, Monica S. Lam.* [[abs](https://arxiv.org/abs/2408.15232)], 2024.8
 
+34. **Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration**
+
+    *Yanjun Chen, Yirong Sun, Hanlin Wang, Xinming Zhang, Xiaoyu Shen, Wenjie Li, Wei Zhang.* [[abs](https://arxiv.org/abs/2603.06859)] [[code](https://github.com/EIT-EAST-Lab/C3)], 2026.3
+
 
 ##### Adversarial Interactions 👨🏻‍🦳🗣
 
