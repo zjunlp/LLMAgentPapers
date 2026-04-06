@@ -896,6 +896,14 @@ Must-read Papers on Large Language Model Agents.
 
     *Pengsong Zhang, Xiang Hu, Guowei Huang, Yang Qi, Heng Zhang, Xiuxu Li, Jiaxing Song, Jiabin Luo, Yijiang Li, Shuo Yin, Chengxiao Dai, Eric Hanchen Jiang, Xiaoyan Zhou, Zhenfei Yin, Boqin Yuan, Jing Dong, Guinan Su, Guanren Qiao, Haiming Tang, Anghong Du, Lili Pan, Zhenzhong Lan, Xinyu Liu.* [[abs](https://arxiv.org/abs/2508.15126)] [[code](https://github.com/aixiv-org)], 2025.8
 
+12. **OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents**
+
+    *Raghav Thind, Youran Sun, Ling Liang, Haizhao Yang.* [[abs](https://arxiv.org/abs/2504.16918)], 2025.4
+
+13. **AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing**
+
+    *Jianda Du, Youran Sun, Haizhao Yang.* [[abs](https://arxiv.org/abs/2602.17607)], 2026.2
+
 ### 🖼️ Framework
 
 1. **Agents: An Open-source Framework for Autonomous Language Agents**
