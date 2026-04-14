@@ -493,6 +493,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Nicolas Bougie, Gian Maria Marconi, Tony Yip, Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2601.00930)], 2026.1
 
+61. **Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation**
+
+    *Nicolas Bougie, Gian Maria Marconi, Tony Yip, Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2604.09549)], 2026.4
+
 
     
 #### Tool use. 👩‍🔧🔧
