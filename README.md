@@ -783,6 +783,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Yanjun Chen, Yirong Sun, Hanlin Wang, Xinming Zhang, Xiaoyu Shen, Wenjie Li, Wei Zhang.* [[abs](https://arxiv.org/abs/2603.06859)] [[code](https://github.com/EIT-EAST-Lab/C3)], 2026.3
 
+35. **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
+
+    *Ao Qu, Han Zheng, Zijian Zhou, Yihao Yan, Yihong Tang, Shao Yong Ong, Fenglu Hong, Kaichen Zhou, Chonghe Jiang, Minwei Kong, Jiacheng Zhu, Xuan Jiang, Sirui Li, Cathy Wu, Bryan Kian Hsiang Low, Jinhua Zhao, Paul Pu Liang.* [[abs](https://arxiv.org/abs/2604.01658)] [[code](https://github.com/Human-Agent-Society/CORAL)], 2026.4
+
 
 ##### Adversarial Interactions 👨🏻‍🦳🗣
 
