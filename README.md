@@ -1070,6 +1070,8 @@ Must-read Papers on Large Language Model Agents.
   
 - **[Comet Opik](https://github.com/comet-ml/opik).** Debug, evaluate, and monitor your agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 
+- **[MASEval](https://github.com/parameterlab/MASEval).** Evaluation harness for multi-agent systems. Enables full system-vs-system evaluations with pre-implemented benchmarks.
+
 ---
 
 ## 🎉 Contribution
