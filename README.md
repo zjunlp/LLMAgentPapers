@@ -924,6 +924,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Youran Sun, Xingyu Ren, Chugang Yi, Jiaxuan Guo, Kejia Zhang, Jianda Du, Haizhao Yang.* [[abs](https://arxiv.org/abs/2606.24177)] [[code](https://github.com/AutoResearch-Factory/Agon)], 2026.6
 
+16. **CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents**
+
+    *Nicolas Bougie, Xiaotong Ye, Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2608.16897)], 2026.7
+
 ### 🖼️ Framework
 
 1. **Agents: An Open-source Framework for Autonomous Language Agents**
