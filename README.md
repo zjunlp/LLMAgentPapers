@@ -1032,6 +1032,11 @@ Must-read Papers on Large Language Model Agents.
 
     *Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Wendong Xu, Yunzhuo Hao, Songcheng Cai, Xiaochen Wang, Huaisong Zhang, Xian Wu, Yi Lu, Minyi Lei, Kai Zou, Huifeng Yin, Ping Nie, Liang Chen, Dongfu Jiang, Wenhu Chen, Kelsey R. Allen.* [[abs](https://arxiv.org/abs/2604.08523)] [[code](https://github.com/TIGER-AI-Lab/ClawBench)], 2026.4
 
+17. **PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?**
+
+    *Mika Okamoto, Ansel Kaplan Erol.* [[abs](https://www.alphaxiv.org/pdf/2609.pact-enterprise-ai-compliance-testing)] [[code](https://github.com/trace-ai-labs/pact)] [[site](https://trace-ai-labs.github.io/pact/)], 2026.8
+
+
 ###  Types of Tools
 
 |      Types      | Tools                                                        |
