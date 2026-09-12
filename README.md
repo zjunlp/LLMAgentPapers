@@ -632,6 +632,10 @@ Must-read Papers on Large Language Model Agents.
 5. **In-the-Flow Agentic System Optimization for Effective Planning and Tool Use**
 
    *Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, Yu Zhang, Yejin Choi, James Zou, Pan Lu* [[abs](https://arxiv.org/abs/2510.05592)], 2025,10
+
+6. **DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training**
+
+   *Shubham Gandhi, Saurabh Goyal, Kiran Kate, Yara Rizk* [[abs](https://arxiv.org/abs/2609.04094)][[code](https://github.com/IBM/draco)], 2026.9
    
 ### 🤖💬🤖 Multiple Agents
 
