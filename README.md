@@ -1045,6 +1045,10 @@ Must-read Papers on Large Language Model Agents.
     *Mika Okamoto, Ansel Kaplan Erol.* [[abs](https://www.alphaxiv.org/pdf/2609.pact-enterprise-ai-compliance-testing)] [[code](https://github.com/trace-ai-labs/pact)] [[site](https://trace-ai-labs.github.io/pact/)], 2026.8
 
 
+18. **TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces**
+
+    *Dehai Min, Daoan Zhang, Yiming Zeng, Huayi Zhang, Ziyi Chen, Yan Zhang, Qinbo Bai, Mengyuan Chao, Jing Ning, Qiyue Hua, Huiyi Chen, Hanrong Zhang, Henry Peng Zou, Jie Yang, Wei Xu, Philip S. Yu.* [[abs](https://arxiv.org/abs/2609.33295)], 2026.9
+
 ###  Types of Tools
 
 |      Types      | Tools                                                        |
