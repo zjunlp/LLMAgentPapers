@@ -101,6 +101,14 @@ Must-read Papers on Large Language Model Agents.
 10. **Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime**
 
    *Chaoyue He, Xin Zhou, Di Wang, Hong Xu, Wei Liu, Chunyan Miao.* [[abs](https://www.preprints.org/manuscript/202603.1756/v2)], 2026.3
+
+11. **LLM Agents: A Survey**
+
+   *Jungseob Lee.* [[abs](https://www.preprints.org/manuscript/202608.0265/v1)], 2026.8
+
+12. **The Agent Loop: A Survey of Control Strategies, Skills, and Harnesses for LLM Agents**
+
+   *Jungseob Lee, Chanjun Park.* [[abs](https://ssrn.com/abstract=7186738)], 2026.8
    
 ---
 
