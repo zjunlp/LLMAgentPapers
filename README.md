@@ -837,6 +837,14 @@ Must-read Papers on Large Language Model Agents.
 8. **CoMet: Metaphor-Driven Covert Communication for Multi-Agent Language Games**
 
    *Shuhang Xu, Fangwei Zhong.* [[abs](https://aclanthology.org/2025.acl-long.389/)], 2025.5
+
+9. **Voting or Consensus? Decision-Making in Multi-Agent Debate**
+
+   *Lars Benedikt Kaesberg, Jonas Becker, Jan Philip Wahle, Terry Ruas, Bela Gipp.* [[abs](https://arxiv.org/abs/2502.19130)] [[code](https://github.com/lkaesberg/decision-protocols)], 2025.2
+
+10. **Stay Focused: Problem Drift in Multi-Agent Debate**
+
+    *Jonas Becker, Lars Benedikt Kaesberg, Andreas Stephan, Jan Philip Wahle, Terry Ruas, Bela Gipp.* [[abs](https://arxiv.org/abs/2502.19559)], 2025.2
    
 ---
 
@@ -974,6 +982,10 @@ Must-read Papers on Large Language Model Agents.
 
    *Yu Shang, Yu Li, Keyu Zhao, Likai Ma, Jiahe Liu, Fengli Xu, Yong Li* [[abs](https://arxiv.org/abs/2410.06153)], 2024.10
 
+9. **MALLM: Multi-Agent Large Language Models Framework**
+
+   *Jonas Becker, Lars Benedikt Kaesberg, Niklas Bauer, Jan Philip Wahle, Terry Ruas, Bela Gipp.* [[abs](https://arxiv.org/abs/2509.11656)] [[code](https://github.com/Multi-Agent-LLMs/mallm)], 2025.9
+
 
 
 ### 🔖 Others
@@ -1056,6 +1068,10 @@ Must-read Papers on Large Language Model Agents.
 18. **TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces**
 
     *Dehai Min, Daoan Zhang, Yiming Zeng, Huayi Zhang, Ziyi Chen, Yan Zhang, Qinbo Bai, Mengyuan Chao, Jing Ning, Qiyue Hua, Huiyi Chen, Hanrong Zhang, Henry Peng Zou, Jie Yang, Wei Xu, Philip S. Yu.* [[abs](https://arxiv.org/abs/2609.33295)], 2026.9
+
+19. **Mind the Gap Between Spatial Reasoning and Acting! Step-by-Step Evaluation of Agents With Spatial-Gym**
+
+    *Lars Benedikt Kaesberg, Tianyu Yang, Niklas Bauer, Terry Ruas, Jan Philip Wahle, Bela Gipp.* [[abs](https://arxiv.org/abs/2604.09338)] [[code](https://github.com/lkaesberg/Spatial-Gym)], 2026.4
 
 ###  Types of Tools
 
