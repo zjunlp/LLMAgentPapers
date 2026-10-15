@@ -644,6 +644,10 @@ Must-read Papers on Large Language Model Agents.
 6. **DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training**
 
    *Shubham Gandhi, Saurabh Goyal, Kiran Kate, Yara Rizk* [[abs](https://arxiv.org/abs/2609.04094)][[code](https://github.com/IBM/draco)], 2026.9
+
+7. **More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning**
+
+   *Linhao Zhong, Bozhen Fang, Xuehao Wang, Duochao Shi, Zekai Luo, Guangming Yao, Yi Yuan, Hao Chen, Jingdong Chen, Chunhua Shen* [[abs](https://arxiv.org/abs/2610.19789)][[code](https://github.com/aim-uofa/Self-Distillation-AgentRL)], 2026.10
    
 ### 🤖💬🤖 Multiple Agents
 
