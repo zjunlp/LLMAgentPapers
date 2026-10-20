@@ -952,6 +952,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Nicolas Bougie, Xiaotong Ye, Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2608.16897)], 2026.7
 
+17. **AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search**
+
+    *Weicheng Ye, Youran Sun, Xingyu Ren, Shunyao Yu, Chugang Yi, Haizhao Yang.* [[abs](https://arxiv.org/abs/2608.11250)] [[code](https://github.com/AutoResearch-Factory/AgonAlpha)], 2026.8
+
 ### 🖼️ Framework
 
 1. **Agents: An Open-source Framework for Autonomous Language Agents**
