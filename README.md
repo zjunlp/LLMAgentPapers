@@ -617,6 +617,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Jintian Zhang, Cheng Peng, Mengshu Sun, Xiang Chen, Lei Liang, Zhiqiang Zhang, Jun Zhou, Huajun Chen, Ningyu Zhang.* [[abs](https://arxiv.org/abs/2409.05152)], 2024.09
 
+27. **Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction**
+
+    *Xingjie Gao, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Shuo Wang, Zulong Chen, Chen Qian, Ge Yu, Yu Gu.* [[abs](https://arxiv.org/abs/2601.12762)][[code](https://github.com/NEUIR/ToolMaster)], 2026.1
+
     
 
 #### RL training. 🧠📈
