@@ -964,6 +964,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Weicheng Ye, Youran Sun, Xingyu Ren, Shunyao Yu, Chugang Yi, Haizhao Yang.* [[abs](https://arxiv.org/abs/2608.11250)] [[code](https://github.com/AutoResearch-Factory/AgonAlpha)], 2026.8
 
+18. **AutoSR: Automatic Symbolic Regression by Searching Research States**
+
+    *Kejia Zhang, Youran Sun, Xingyu Ren, Chugang Yi, Haizhao Yang.* [[abs](https://arxiv.org/abs/2608.16876)] [[code](https://github.com/AutoResearch-Factory/AutoSR)] [[site](https://autosr.app)], 2026.8
+
 ### 🖼️ Framework
 
 1. **Agents: An Open-source Framework for Autonomous Language Agents**
@@ -1088,6 +1092,10 @@ Must-read Papers on Large Language Model Agents.
 19. **Mind the Gap Between Spatial Reasoning and Acting! Step-by-Step Evaluation of Agents With Spatial-Gym**
 
     *Lars Benedikt Kaesberg, Tianyu Yang, Niklas Bauer, Terry Ruas, Jan Philip Wahle, Bela Gipp.* [[abs](https://arxiv.org/abs/2604.09338)] [[code](https://github.com/lkaesberg/Spatial-Gym)], 2026.4
+
+20. **SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents**
+
+    *Youran Sun, Xingyu Ren, Chugang Yi, Kejia Zhang, Di Wu, Yingkang Cao, Allen Zhou, Jianping Ye, Suying Liu, Jiaxuan Guo, Jianda Du, Weicheng Ye, Kecheng Liu, Hefan Zhang, Haixin Wang, Jie Xiao, Eric Yang, Haizhao Yang.* [[abs](https://arxiv.org/abs/2610.21082)] [[code](https://github.com/AutoResearch-Factory/SciPIvot)] [[site](https://autoresearch-factory.github.io/SciPIvot/)], 2026.10
 
 ###  Types of Tools
 
