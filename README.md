@@ -621,6 +621,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Xingjie Gao, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Shuo Wang, Zulong Chen, Chen Qian, Ge Yu, Yu Gu.* [[abs](https://arxiv.org/abs/2601.12762)][[code](https://github.com/NEUIR/ToolMaster)], 2026.1
 
+28. **TabAgent: Distilling LLM Agent Components into Cheap Classifiers**
+
+    *Ido Levy, Segev Shlomov, Avi Yaeli, Nir Mashkif, Asaf Adi, Yinon Goldstein, Eilam Shapira, Leshem Choshen.* [[abs](https://arxiv.org/abs/2602.16429)][[code](https://github.com/dolev31/TabAgent)], 2026.2
+
     
 
 #### RL training. 🧠📈
