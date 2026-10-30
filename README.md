@@ -258,6 +258,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Ling Yang, Zhaochen Yu, Tianjun Zhang, Shiyi Cao, Minkai Xu, Wentao Zhang, Joseph E. Gonzalez, Bin Cui.*  [[abs](https://arxiv.org/abs/2406.04271)],2024,6
 
+24. **Agent Memory Infrastructure: Byzantine-Resilient Institutional Memory for Multi-Agent Systems**
+
+    *Dhillon Andrew Kannabhiran.* [[paper](https://doi.org/10.5281/zenodo.18856658)] [[code](https://github.com/l33tdawg/sage)], 2026
+
 
 #### Planning. 🧩♟️
 
