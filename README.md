@@ -821,7 +821,7 @@ Must-read Papers on Large Language Model Agents.
 
 36. **NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning**
 
-    *Haoran Lu, Luyang Fang, Wenxuan Zhong, Ping Ma.* [[paper](https://openreview.net/pdf?id=psCz7NClif)] [[abs](https://arxiv.org/abs/2605.16757)] [[code](https://github.com/haoranlustat/NeuroMAS)], 2026.5 (STAI-X 2026)
+    *Haoran Lu, Luyang Fang, Wenxuan Zhong, Ping Ma.* [[paper](https://openreview.net/pdf?id=psCz7NClif)] [[abs](https://arxiv.org/abs/2605.16757)] [[code](https://github.com/haoranlustat/NeuroMAS)], 2026.5 (The First Conference on Statistics and Trustworthy AI for Cross (X)-Domain Acceleration (STAI-X 2026), Paper Award Honorable Mention)
 
 
 ##### Adversarial Interactions 👨🏻‍🦳🗣
