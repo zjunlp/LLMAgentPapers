@@ -819,6 +819,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Ao Qu, Han Zheng, Zijian Zhou, Yihao Yan, Yihong Tang, Shao Yong Ong, Fenglu Hong, Kaichen Zhou, Chonghe Jiang, Minwei Kong, Jiacheng Zhu, Xuan Jiang, Sirui Li, Cathy Wu, Bryan Kian Hsiang Low, Jinhua Zhao, Paul Pu Liang.* [[abs](https://arxiv.org/abs/2604.01658)] [[code](https://github.com/Human-Agent-Society/CORAL)], 2026.4
 
+36. **NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning**
+
+    *Haoran Lu, Luyang Fang, Wenxuan Zhong, Ping Ma.* [[paper](https://openreview.net/pdf?id=psCz7NClif)] [[abs](https://arxiv.org/abs/2605.16757)] [[code](https://github.com/haoranlustat/NeuroMAS)], 2026.5 (STAI-X 2026)
+
 
 ##### Adversarial Interactions 👨🏻‍🦳🗣
 
