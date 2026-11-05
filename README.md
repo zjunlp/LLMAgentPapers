@@ -1101,6 +1101,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Youran Sun, Xingyu Ren, Chugang Yi, Kejia Zhang, Di Wu, Yingkang Cao, Allen Zhou, Jianping Ye, Suying Liu, Jiaxuan Guo, Jianda Du, Weicheng Ye, Kecheng Liu, Hefan Zhang, Haixin Wang, Jie Xiao, Eric Yang, Haizhao Yang.* [[abs](https://arxiv.org/abs/2610.21082)] [[code](https://github.com/AutoResearch-Factory/SciPIvot)] [[site](https://autoresearch-factory.github.io/SciPIvot/)], 2026.10
 
+21. **Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution**
+
+    *Pengcheng Huang, Zhenghao Liu, Shixin Ren, Shi Yu, Sijia Yao, Yukun Yan, Chaojun Xiao, Maosong Sun.* [[abs](https://arxiv.org/abs/2610.17816)] [[code](https://github.com/OpenBMB/EC2-Bench)] [[site](https://passionate11.github.io/ec2-bench-project-page/)] [[dataset](https://huggingface.co/datasets/chengpingan/EC2-Bench)], 2026.10
+
 ###  Types of Tools
 
 |      Types      | Tools                                                        |
