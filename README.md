@@ -823,6 +823,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Haoran Lu, Luyang Fang, Wenxuan Zhong, Ping Ma.* [[paper](https://openreview.net/pdf?id=psCz7NClif)] [[abs](https://arxiv.org/abs/2605.16757)] [[code](https://github.com/haoranlustat/NeuroMAS)], 2026.5 (The First Conference on Statistics and Trustworthy AI for Cross (X)-Domain Acceleration (STAI-X 2026), Paper Award Honorable Mention)
 
+37. **SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**
+
+    *Qile Jiang, George Em Karniadakis.* [[abs](https://arxiv.org/abs/2611.08483)] [[code](https://github.com/Qile-J/SwarmEvolve)], 2026.11
+
 
 ##### Adversarial Interactions 👨🏻‍🦳🗣
 
