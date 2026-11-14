@@ -980,6 +980,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Kejia Zhang, Youran Sun, Xingyu Ren, Chugang Yi, Haizhao Yang.* [[abs](https://arxiv.org/abs/2608.16876)] [[code](https://github.com/AutoResearch-Factory/AutoSR)] [[site](https://autosr.app)], 2026.8
 
+19. **Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment**
+
+    *Stephen Chung, Wenyu Du, William J. Wesley.* [[abs](https://arxiv.org/abs/2608.23691)] [[code](https://github.com/dualverse-ai/station)], 2026.8
+
 ### 🖼️ Framework
 
 1. **Agents: An Open-source Framework for Autonomous Language Agents**
