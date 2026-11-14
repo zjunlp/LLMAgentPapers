@@ -513,6 +513,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Nicolas Bougie, Gian Maria Marconi, Tony Yip, Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2604.09549)], 2026.4
 
+62. **Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents**
+
+    *Nishad Singhi, Christian Bialas, Snehal Jauhri, Vignesh Prasad, Georgia Chalvatzaki, Marcus Rohrbach, Anna Rohrbach.* [[abs](https://arxiv.org/abs/2605.12620)] [[code](https://github.com/nishadsinghi/vegas)], 2026.5
+
 
     
 #### Tool use. 👩‍🔧🔧
