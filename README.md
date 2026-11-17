@@ -1121,6 +1121,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Pengcheng Huang, Zhenghao Liu, Shixin Ren, Shi Yu, Sijia Yao, Yukun Yan, Chaojun Xiao, Maosong Sun.* [[abs](https://arxiv.org/abs/2610.17816)] [[code](https://github.com/OpenBMB/EC2-Bench)] [[site](https://passionate11.github.io/ec2-bench-project-page/)] [[dataset](https://huggingface.co/datasets/chengpingan/EC2-Bench)], 2026.10
 
+22. **A Benchmark for Evaluating Outcome-Driven Constraint Violations in Autonomous AI Agents**
+
+    *Miles Q. Li, Benjamin C. M. Fung, Martin Weiss, Pulei Xiong, Khalil Al-Hussaeni, Claude Fachkha.* [[abs](https://arxiv.org/abs/2512.20798)] [[code](https://github.com/McGill-DMaS/ODCV-Bench)], 2025.12
+
 ###  Types of Tools
 
 |      Types      | Tools                                                        |
